@@ -1,9 +1,64 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
-    <title>FGV Asset QR</title>
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>FGV Asset Information</title>
+<style>
+body{font-family:Arial,Helvetica,sans-serif;background:#f1f2f3;margin:0;padding:30px;}
+.card{max-width:760px;margin:0 auto;background:#fff;border-radius:10px;padding:22px;box-shadow:0 8px 24px rgba(0,0,0,0.08);}
+.logo{display:block;margin:0 auto 8px auto;height:48px;}
+h1{color:#0b5f8a;text-align:center;margin:6px 0 18px 0;font-size:24px;}
+.photo{width:100%;display:block;border-radius:8px;border:8px solid #fff;box-shadow:0 4px 14px rgba(0,0,0,0.06);}
+.table{width:100%;border-collapse:collapse;margin-top:14px;}
+.table td{padding:8px 6px;vertical-align:top;}
+.label{color:#0b5f8a;font-weight:700;width:35%;}
+.value{color:#222;}
+.error{text-align:center;color:#b00020;font-weight:bold;padding:30px;}
+@media(max-width:480px){.card{padding:14px}h1{font-size:20px}}
+</style>
 </head>
 <body>
-    <h1>FGV Asset QR System</h1>
+<div class='card'>
+<h1>FGV Asset Information</h1>
+<div id='content'>Loading...</div>
+</div>
+<script>
+async function loadAsset(){
+const params=new URLSearchParams(window.location.search);
+const id=params.get('id');
+const content=document.getElementById('content');
+if(!id){
+content.innerHTML='<div class="error">Asset ID not found.</div>';
+return;
+}
+try{
+const response=await fetch('assets.json');
+if(!response.ok)throw new Error('JSON load failed');
+const assets=await response.json();
+const asset=assets.find(x=>String(x.id)===String(id));
+if(!asset){
+content.innerHTML='<div class="error">Asset not found.</div>';
+return;
+}
+let imagePath='../Images/'+asset['Asset No.']+'.jpg';
+let table='';
+<!--TABLE_PLACEHOLDER-->
+table='<table class="table">';
+const fields=['Asset No.','Asset description','Location','CostCenter','Quantity','Cap.date'];
+fields.forEach(function(field){
+table += '<tr><td class="label">' + field + '</td><td class="value">' + escapeHTML(asset[field] || '') + '</td></tr>';
+});
+table+='</table>';
+content.innerHTML='<div style="text-align:center;margin-bottom:12px;">'+'<img src="'+imagePath+'" class="photo" alt="Asset">'+'</div>'+table;
+}catch(error){
+content.innerHTML='<div class="error">Unable to load asset information.</div>';
+}
+}
+function escapeHTML(value){
+return String(value).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#039;');
+}
+loadAsset();
+</script>
 </body>
 </html>
