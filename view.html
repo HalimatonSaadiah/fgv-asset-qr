@@ -1,64 +1,395 @@
 <!doctype html>
+
 <html>
 <head>
-<meta charset='utf-8'>
-<meta name='viewport' content='width=device-width,initial-scale=1'>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
 <title>FGV Asset Information</title>
+
 <style>
-body{font-family:Arial,Helvetica,sans-serif;background:#f1f2f3;margin:0;padding:30px;}
-.card{max-width:760px;margin:0 auto;background:#fff;border-radius:10px;padding:22px;box-shadow:0 8px 24px rgba(0,0,0,0.08);}
-.logo{display:block;margin:0 auto 8px auto;height:48px;}
-h1{color:#0b5f8a;text-align:center;margin:6px 0 18px 0;font-size:24px;}
-.photo{width:100%;display:block;border-radius:8px;border:8px solid #fff;box-shadow:0 4px 14px rgba(0,0,0,0.06);}
-.table{width:100%;border-collapse:collapse;margin-top:14px;}
-.table td{padding:8px 6px;vertical-align:top;}
-.label{color:#0b5f8a;font-weight:700;width:35%;}
-.value{color:#222;}
-.error{text-align:center;color:#b00020;font-weight:bold;padding:30px;}
-@media(max-width:480px){.card{padding:14px}h1{font-size:20px}}
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f1f2f3;
+    margin:0;
+    padding:30px 15px;
+    color:#222;
+}
+
+.card{
+    max-width:760px;
+    margin:0 auto;
+    background:#fff;
+    border-radius:12px;
+    padding:28px;
+    box-shadow:0 8px 24px rgba(0,0,0,0.08);
+}
+
+.logo{
+    display:block;
+    margin:0 auto 10px auto;
+    height:58px;
+    width:auto;
+}
+
+h1{
+    color:#0b5f8a;
+    text-align:center;
+    margin:5px 0 4px 0;
+    font-size:25px;
+}
+
+.asset-id{
+    text-align:center;
+    color:#666;
+    font-size:14px;
+    margin-bottom:22px;
+}
+
+.photo-container{
+    width:100%;
+    min-height:300px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:#f7f8f9;
+    border-radius:10px;
+    overflow:hidden;
+    margin-bottom:20px;
+    border:1px solid #e1e4e6;
+}
+
+.photo{
+    width:100%;
+    max-height:500px;
+    object-fit:contain;
+    display:block;
+}
+
+.no-photo{
+    color:#888;
+    font-size:14px;
+    text-align:center;
+    padding:40px 20px;
+}
+
+.section-title{
+    color:#0b5f8a;
+    font-size:16px;
+    font-weight:bold;
+    margin:10px 0 8px 0;
+    padding-bottom:6px;
+    border-bottom:2px solid #e5e5e5;
+}
+
+.table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:8px;
+}
+
+.table tr{
+    border-bottom:1px solid #eeeeee;
+}
+
+.table tr:last-child{
+    border-bottom:none;
+}
+
+.table td{
+    padding:11px 8px;
+    vertical-align:top;
+    font-size:14px;
+}
+
+.label{
+    color:#0b5f8a;
+    font-weight:700;
+    width:36%;
+}
+
+.value{
+    color:#222;
+    word-break:break-word;
+}
+
+.error{
+    text-align:center;
+    color:#b00020;
+    font-weight:bold;
+    padding:30px 10px;
+}
+
+.footer{
+    text-align:center;
+    color:#999;
+    font-size:11px;
+    margin-top:20px;
+}
+
+@media(max-width:480px){
+
+    body{
+        padding:15px 10px;
+    }
+
+    .card{
+        padding:18px;
+        border-radius:10px;
+    }
+
+    .logo{
+        height:48px;
+    }
+
+    h1{
+        font-size:21px;
+    }
+
+    .photo-container{
+        min-height:220px;
+    }
+
+    .table td{
+        padding:9px 5px;
+        font-size:13px;
+    }
+
+    .label{
+        width:40%;
+    }
+
+}
+
 </style>
+
 </head>
+
 <body>
-<div class='card'>
+
+<div class="card">
+
+```
+<img src="Images/FGV.png" class="logo" alt="FGV">
+
 <h1>FGV Asset Information</h1>
-<div id='content'>Loading...</div>
+
+<div id="assetId" class="asset-id"></div>
+
+<div id="content">
+    Loading...
 </div>
+
+<div class="footer">
+    FGV Asset QR System
+</div>
+```
+
+</div>
+
 <script>
+
 async function loadAsset(){
-const params=new URLSearchParams(window.location.search);
-const id=params.get('id');
-const content=document.getElementById('content');
-if(!id){
-content.innerHTML='<div class="error">Asset ID not found.</div>';
-return;
+
+    const params = new URLSearchParams(window.location.search);
+
+    const id = params.get('id');
+
+    const content = document.getElementById('content');
+
+    const assetIdDisplay = document.getElementById('assetId');
+
+
+    if(!id){
+
+        content.innerHTML =
+            '<div class="error">Asset ID not found.</div>';
+
+        return;
+
+    }
+
+
+    try{
+
+        const response = await fetch('assets.json');
+
+
+        if(!response.ok){
+
+            throw new Error('JSON load failed');
+
+        }
+
+
+        const assets = await response.json();
+
+
+        const asset = assets.find(function(x){
+
+            return String(x.id) === String(id);
+
+        });
+
+
+        if(!asset){
+
+            content.innerHTML =
+                '<div class="error">Asset not found.</div>';
+
+            return;
+
+        }
+
+
+        const assetNo = asset['Asset No.'] || id;
+
+
+        assetIdDisplay.textContent =
+            'Asset No. ' + assetNo;
+
+
+        /*
+        ==========================================
+        ASSET IMAGE
+        ==========================================
+        */
+
+        const imagePath =
+            'Images/' + assetNo + '.jpg';
+
+
+        /*
+        ==========================================
+        ASSET INFORMATION
+        ==========================================
+        */
+
+        let table = '';
+
+        const fields = [
+
+            ['Asset No.', 'Asset No.'],
+
+            ['Asset Description', 'Asset description'],
+
+            ['Location', 'Location'],
+
+            ['Cost Center', 'CostCenter'],
+
+            ['Quantity', 'Quantity'],
+
+            ['Cap. Date', 'Cap.date']
+
+        ];
+
+
+        fields.forEach(function(field){
+
+            const displayName = field[0];
+
+            const dataField = field[1];
+
+            let value = asset[dataField];
+
+
+            if(value === null ||
+               value === undefined ||
+               String(value).trim() === ''){
+
+                value = '-';
+
+            }
+
+
+            table +=
+                '<tr>' +
+                '<td class="label">' +
+                escapeHTML(displayName) +
+                '</td>' +
+
+                '<td class="value">' +
+                escapeHTML(value) +
+                '</td>' +
+
+                '</tr>';
+
+        });
+
+
+        /*
+        ==========================================
+        FINAL PAGE CONTENT
+        ==========================================
+        */
+
+        content.innerHTML =
+
+            '<div class="photo-container">' +
+
+            '<img src="' +
+            imagePath +
+            '" class="photo" ' +
+            'alt="Asset Image" ' +
+
+            'onerror="this.style.display=\'none\';' +
+            'this.parentElement.innerHTML=' +
+            '\'<div class=&quot;no-photo&quot;>' +
+            'Asset image not available.' +
+            '</div>\';">' +
+
+            '</div>' +
+
+            '<div class="section-title">' +
+            'Asset Details' +
+            '</div>' +
+
+            '<table class="table">' +
+
+            table +
+
+            '</table>';
+
+    }
+
+
+    catch(error){
+
+        content.innerHTML =
+            '<div class="error">' +
+            'Unable to load asset information.' +
+            '</div>';
+
+    }
+
 }
-try{
-const response=await fetch('assets.json');
-if(!response.ok)throw new Error('JSON load failed');
-const assets=await response.json();
-const asset=assets.find(x=>String(x.id)===String(id));
-if(!asset){
-content.innerHTML='<div class="error">Asset not found.</div>';
-return;
-}
-let imagePath='Images/'+asset['Asset No.']+'.jpg';
-let table='';
-<!--TABLE_PLACEHOLDER-->
-table='<table class="table">';
-const fields=['Asset No.','Asset description','Location','CostCenter','Quantity','Cap.date'];
-fields.forEach(function(field){
-table += '<tr><td class="label">' + field + '</td><td class="value">' + escapeHTML(asset[field] || '') + '</td></tr>';
-});
-table+='</table>';
-content.innerHTML='<div style="text-align:center;margin-bottom:12px;">'+'<img src="'+imagePath+'" class="photo" alt="Asset">'+'</div>'+table;
-}catch(error){
-content.innerHTML='<div class="error">Unable to load asset information.</div>';
-}
-}
+
+
 function escapeHTML(value){
-return String(value).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#039;');
+
+    return String(value)
+
+        .replace(/&/g,'&amp;')
+
+        .replace(/</g,'&lt;')
+
+        .replace(/>/g,'&gt;')
+
+        .replace(/"/g,'&quot;')
+
+        .replace(/'/g,'&#039;');
+
 }
+
+
 loadAsset();
+
 </script>
+
 </body>
 </html>
