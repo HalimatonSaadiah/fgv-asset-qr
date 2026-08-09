@@ -228,9 +228,9 @@ async function loadAsset(){
     const assets = await response.json();
 
 
-     const asset = assets.find(function(x){
+ const asset = assets.find(function(x){
 
-    return String(x['Asset No.']).trim() === String(id).trim();
+    return String(x.id) === String(id);
 
 });
 
