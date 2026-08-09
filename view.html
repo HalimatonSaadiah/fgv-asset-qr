@@ -215,19 +215,19 @@ async function loadAsset(){
     }
 
 
-    try{
+  try{
 
-        const response = await fetch('assets.json?v=' + Date.now());
+    const response = await fetch('assets.json?v=' + Date.now(), {
+        cache: 'no-store'
+    });
 
+    if(!response.ok){
 
-        if(!response.ok){
+        throw new Error('JSON load failed');
 
-            throw new Error('JSON load failed');
+    }
 
-        }
-
-
-        const assets = await response.json();
+    const assets = await response.json();
 
 
         const asset = assets.find(function(x){
