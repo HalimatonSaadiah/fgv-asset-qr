@@ -217,9 +217,7 @@ async function loadAsset(){
 
   try{
 
-    const response = await fetch('assets.json?v=' + Date.now(), {
-        cache: 'no-store'
-    });
+    const response = await fetch('assets.json');
 
     if(!response.ok){
 
@@ -230,11 +228,11 @@ async function loadAsset(){
     const assets = await response.json();
 
 
-        const asset = assets.find(function(x){
+     const asset = assets.find(function(x){
 
-            return String(x.id) === String(id);
+    return String(x['Asset No.']).trim() === String(id).trim();
 
-        });
+});
 
 
         if(!asset){
