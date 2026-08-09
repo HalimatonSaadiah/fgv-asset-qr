@@ -1209,7 +1209,7 @@
     "id": "9900001263",
     "Asset No.": "9900001263",
     "Asset description": "ARC WELDING MACHINE / MESIN KIMPALAN",
-    "Location": "",
+    "Location": "MAINTENANCE",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "05.06.2025"
@@ -1218,7 +1218,7 @@
     "id": "4100002301",
     "Asset No.": "4100002301",
     "Asset description": "STIHL GERMANY MS250 20\" Chain Saw",
-    "Location": "",
+    "Location": "MAINTENANCE",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "03.06.2025"
@@ -1227,7 +1227,7 @@
     "id": "5200000000",
     "Asset No.": "5200000000",
     "Asset description": "ADDITIONAL NETWORK CABLING INSTALLAT",
-    "Location": "",
+    "Location": "BIOINFOMATIC",
     "CostCenter": "821146001",
     "Quantity": "25",
     "Cap.date": "19.12.2024"
@@ -1236,7 +1236,7 @@
     "id": "6200002527",
     "Asset No.": "6200002527",
     "Asset description": "DATA LOGGER (7 units)",
-    "Location": "",
+    "Location": "BIOINFOMATIC",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "07.11.2024"
@@ -1245,7 +1245,7 @@
     "id": "6200002528",
     "Asset No.": "6200002528",
     "Asset description": "TOUCH SCREEN KIOSK",
-    "Location": "",
+    "Location": "BIOINFOMATIC",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "07.11.2024"
@@ -1254,7 +1254,7 @@
     "id": "6200002529",
     "Asset No.": "6200002529",
     "Asset description": "QR SCANNING STATION",
-    "Location": "",
+    "Location": "BIOINFOMATIC",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "07.11.2024"
@@ -1263,7 +1263,7 @@
     "id": "6200002530",
     "Asset No.": "6200002530",
     "Asset description": "LABEL PRINTING STATION",
-    "Location": "",
+    "Location": "BIOINFOMATIC",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "07.11.2024"
@@ -1272,7 +1272,7 @@
     "id": "6200002520",
     "Asset No.": "6200002520",
     "Asset description": "SEMI- AUTO JAR CLEANING MACHINE - FG",
-    "Location": "",
+    "Location": "E",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "26.09.2024"
@@ -1281,7 +1281,7 @@
     "id": "6900000543",
     "Asset No.": "6900000543",
     "Asset description": "MENAIKTARAF SISTEM PAIP HIDRAN FGVIC",
-    "Location": "",
+    "Location": "BANGUNAN FGVIC",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.12.2023"
@@ -1290,7 +1290,7 @@
     "id": "9900001109",
     "Asset No.": "9900001109",
     "Asset description": "AGRONOMIC LABORATORY CHAIR MACHLAB",
-    "Location": "",
+    "Location": "A (1),B (5) C (7),D(1)E(1)F (5) G(8) H(5)I (7)",
     "CostCenter": "821146001",
     "Quantity": "40",
     "Cap.date": "30.10.2023"
@@ -1299,7 +1299,7 @@
     "id": "6200002419",
     "Asset No.": "6200002419",
     "Asset description": "WATER FILTER VACUUM CLEANER BRAND KA",
-    "Location": "",
+    "Location": "MAINTENANCE (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "15.05.2023"
@@ -1308,7 +1308,7 @@
     "id": "6200002420",
     "Asset No.": "6200002420",
     "Asset description": "MICROBEAD STERILIZER",
-    "Location": "",
+    "Location": "C (5) F (5)",
     "CostCenter": "821146001",
     "Quantity": "10",
     "Cap.date": "08.05.2023"
@@ -1317,7 +1317,7 @@
     "id": "6200002421",
     "Asset No.": "6200002421",
     "Asset description": "EPPENDOFT MICROPIPETTE 5 ML",
-    "Location": "",
+    "Location": "D (2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "03.05.2023"
@@ -1326,7 +1326,7 @@
     "id": "6300001193",
     "Asset No.": "6300001193",
     "Asset description": "WALKIE TALKIE - UHF GP 328",
-    "Location": "",
+    "Location": "ADM (1) MAINT (4)BAHA(1) STOR(3)",
     "CostCenter": "821146001",
     "Quantity": "9",
     "Cap.date": "17.01.2012"
@@ -1335,7 +1335,7 @@
     "id": "6200002389",
     "Asset No.": "6200002389",
     "Asset description": "PERISTALTIC PUMP @ Enstek",
-    "Location": "",
+    "Location": "D (2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "18.01.2023"
@@ -1344,7 +1344,7 @@
     "id": "6200002377",
     "Asset No.": "6200002377",
     "Asset description": "High Temperature Data Logger",
-    "Location": "",
+    "Location": "D (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "22.12.2022"
@@ -1353,7 +1353,7 @@
     "id": "6200002388",
     "Asset No.": "6200002388",
     "Asset description": "STAINLESS STEEL TROLLEY",
-    "Location": "",
+    "Location": "E (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.12.2022"
@@ -1362,7 +1362,7 @@
     "id": "6900000533",
     "Asset No.": "6900000533",
     "Asset description": "PEMBAIKAN SISTEM PENGGERA KEBAKARAN",
-    "Location": "",
+    "Location": "ADM CONTROL ROOM",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2022"
@@ -1371,7 +1371,7 @@
     "id": "6900000535",
     "Asset No.": "6900000535",
     "Asset description": "DOOR ACCESS CONTROL SECURITY SYSTEM",
-    "Location": "",
+    "Location": "ADM CONTROL ROOM",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2022"
@@ -1380,7 +1380,7 @@
     "id": "4100002116",
     "Asset No.": "4100002116",
     "Asset description": "PROJECTOR CANON LV_X350 @ ENSTEK",
-    "Location": "",
+    "Location": "ADM (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "13.10.2022"
@@ -1389,7 +1389,7 @@
     "id": "6400000296",
     "Asset No.": "6400000296",
     "Asset description": "HEAVY DUTY HAND PALLET TRUCK",
-    "Location": "",
+    "Location": "MAINTENANCE (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "15.08.2022"
@@ -1398,7 +1398,7 @@
     "id": "4100002010",
     "Asset No.": "4100002010",
     "Asset description": "CORDLEES DRILL - MAINTENANCE ENSTEK",
-    "Location": "",
+    "Location": "M (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "23.12.2020"
@@ -1407,7 +1407,7 @@
     "id": "4100002011",
     "Asset No.": "4100002011",
     "Asset description": "WELDING INVERTER (MIG) - MAINTENANCE",
-    "Location": "",
+    "Location": "M (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "23.12.2020"
@@ -1416,7 +1416,7 @@
     "id": "6900000523",
     "Asset No.": "6900000523",
     "Asset description": "FGVIC IT infrastructure upgrade",
-    "Location": "",
+    "Location": "BIOINFOMATIC",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2020"
@@ -1425,7 +1425,7 @@
     "id": "6200002252",
     "Asset No.": "6200002252",
     "Asset description": "HIGH TEMPERATURE DATA LOGGER AUTOCLA",
-    "Location": "",
+    "Location": "(1) ADMIN (ZIRA PEGANG)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.06.2019"
@@ -1434,7 +1434,7 @@
     "id": "9900000987",
     "Asset No.": "9900000987",
     "Asset description": "WALL FAN 16\" (PANASONIC)",
-    "Location": "",
+    "Location": "(2)ADMIN CAF  (1)STOR WASTE",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "28.06.2019"
@@ -1443,7 +1443,7 @@
     "id": "9900000988",
     "Asset No.": "9900000988",
     "Asset description": "INDUSTRIES STAND FAN (COMFORT) FS-65",
-    "Location": "",
+    "Location": "E (1), J (1)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "28.06.2019"
@@ -1452,7 +1452,7 @@
     "id": "4100001974",
     "Asset No.": "4100001974",
     "Asset description": "Jam Ronda Elektronic GTS",
-    "Location": "",
+    "Location": "PONDOK GUARD",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "17.05.2019"
@@ -1470,7 +1470,7 @@
     "id": "9900000986",
     "Asset No.": "9900000986",
     "Asset description": "ACCURACY INDOOR TEMPERATURE & HUMIDI",
-    "Location": "",
+    "Location": "ZIRA (3)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "14.05.2019"
@@ -1479,7 +1479,7 @@
     "id": "1270000182",
     "Asset No.": "1270000182",
     "Asset description": "GLASS GREEN HOUSE - FGVIC",
-    "Location": "",
+    "Location": "Bangunan BMC",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.12.2018"
@@ -1488,7 +1488,7 @@
     "id": "4100001899",
     "Asset No.": "4100001899",
     "Asset description": "Aluminium Mobile Scaffold",
-    "Location": "",
+    "Location": "M",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "13.09.2017"
@@ -1497,7 +1497,7 @@
     "id": "4100001882",
     "Asset No.": "4100001882",
     "Asset description": "Walkie Talkie Brand ABELL A-82",
-    "Location": "",
+    "Location": "M(3)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "27.07.2015"
@@ -1506,7 +1506,7 @@
     "id": "4100001883",
     "Asset No.": "4100001883",
     "Asset description": "Fogger Spray (Smoke Gun)",
-    "Location": "",
+    "Location": "M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "27.07.2015"
@@ -1515,7 +1515,7 @@
     "id": "4100001871",
     "Asset No.": "4100001871",
     "Asset description": "Insulation Teste",
-    "Location": "",
+    "Location": "M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "03.06.2015"
@@ -1524,7 +1524,7 @@
     "id": "4100001833",
     "Asset No.": "4100001833",
     "Asset description": "Air Compressor 8 Bar",
-    "Location": "",
+    "Location": "M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "18.06.2014"
@@ -1533,7 +1533,7 @@
     "id": "4100001834",
     "Asset No.": "4100001834",
     "Asset description": "Back Pack Leaf Blower",
-    "Location": "",
+    "Location": "M (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "18.06.2014"
@@ -1542,7 +1542,7 @@
     "id": "4100001835",
     "Asset No.": "4100001835",
     "Asset description": "Electric Drill",
-    "Location": "",
+    "Location": "M (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "06.06.2014"
@@ -1551,7 +1551,7 @@
     "id": "9900000756",
     "Asset No.": "9900000756",
     "Asset description": "Tangga Aluminium",
-    "Location": "",
+    "Location": "D (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "06.06.2014"
@@ -1560,7 +1560,7 @@
     "id": "4100001798",
     "Asset No.": "4100001798",
     "Asset description": "BIRD REPELLENT SYSTEM - PUSAT BIOTEK",
-    "Location": "",
+    "Location": "D (1) M&E (ATAS)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.10.2013"
@@ -1569,7 +1569,7 @@
     "id": "6200001933",
     "Asset No.": "6200001933",
     "Asset description": "LAMINAR AIR FLOW",
-    "Location": "",
+    "Location": "F(1)G(3),",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "11.09.2013"
@@ -1578,7 +1578,7 @@
     "id": "6200001934",
     "Asset No.": "6200001934",
     "Asset description": "EPOXY COATED GALVANIZED IRON STAND",
-    "Location": "",
+    "Location": "F(1),G(3),H(1)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "11.09.2013"
@@ -1587,7 +1587,7 @@
     "id": "6200001935",
     "Asset No.": "6200001935",
     "Asset description": "TOUCH-O MATIC GAS BURNER",
-    "Location": "",
+    "Location": "F(1),G(3),H(1)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "11.09.2013"
@@ -1596,7 +1596,7 @@
     "id": "6200001974",
     "Asset No.": "6200001974",
     "Asset description": "520DI WITH ONE PUMP 323S 2 PUMP HEAD",
-    "Location": "",
+    "Location": "D (1) DIJANGKA LUPUS OGOS 2025",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "10.07.2013"
@@ -1605,7 +1605,7 @@
     "id": "6200001962",
     "Asset No.": "6200001962",
     "Asset description": "INSULATION RESISTANCE TESTERS",
-    "Location": "",
+    "Location": "STOR M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "16.05.2013"
@@ -1614,7 +1614,7 @@
     "id": "6200001963",
     "Asset No.": "6200001963",
     "Asset description": "METER PANEL (MH) VOLT 0-500 VOLT 96",
-    "Location": "",
+    "Location": "STOR M",
     "CostCenter": "821146001",
     "Quantity": "5",
     "Cap.date": "16.05.2013"
@@ -1623,7 +1623,7 @@
     "id": "6200001964",
     "Asset No.": "6200001964",
     "Asset description": "METER PANEL (MH) AMP METER 0-200AMP",
-    "Location": "",
+    "Location": "STOR M",
     "CostCenter": "821146001",
     "Quantity": "5",
     "Cap.date": "16.05.2013"
@@ -1632,7 +1632,7 @@
     "id": "6200001967",
     "Asset No.": "6200001967",
     "Asset description": "3IN1 VACUUM KARCHER WD4200 - 25LT",
-    "Location": "",
+    "Location": "STOR M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "16.05.2013"
@@ -1641,7 +1641,7 @@
     "id": "6200001968",
     "Asset No.": "6200001968",
     "Asset description": "PRESSURE PUMP KARCHER HD6/12-4C - 40",
-    "Location": "",
+    "Location": "S/M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "16.05.2013"
@@ -1650,7 +1650,7 @@
     "id": "6200001969",
     "Asset No.": "6200001969",
     "Asset description": "WELDING SET (GAS)",
-    "Location": "",
+    "Location": "S/M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "16.05.2013"
@@ -1659,7 +1659,7 @@
     "id": "6200001970",
     "Asset No.": "6200001970",
     "Asset description": "SLIDING LADDER (TANGGA BOMBA) - 12'",
-    "Location": "",
+    "Location": "S/M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "16.05.2013"
@@ -1668,7 +1668,7 @@
     "id": "9900000670",
     "Asset No.": "9900000670",
     "Asset description": "KIPAS SILING (KDK) 60\"",
-    "Location": "",
+    "Location": "E(8)",
     "CostCenter": "821146001",
     "Quantity": "8",
     "Cap.date": "16.05.2013"
@@ -1677,7 +1677,7 @@
     "id": "9900000671",
     "Asset No.": "9900000671",
     "Asset description": "EXZOS FAN (KDK) 10\"",
-    "Location": "",
+    "Location": "M(4)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "16.05.2013"
@@ -1686,7 +1686,7 @@
     "id": "9900000672",
     "Asset No.": "9900000672",
     "Asset description": "SPANNER BOX",
-    "Location": "",
+    "Location": "BLK CHILLER(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "16.05.2013"
@@ -1695,7 +1695,7 @@
     "id": "9900000673",
     "Asset No.": "9900000673",
     "Asset description": "MAGNETIC WHITEBOARD - 4' x 6'",
-    "Location": "",
+    "Location": "B(1)E(1),H(1),I(1)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "16.05.2013"
@@ -1704,7 +1704,7 @@
     "id": "4100001779",
     "Asset No.": "4100001779",
     "Asset description": "WALKIE TALKIE UHF",
-    "Location": "",
+    "Location": "ADM(1),M(5)",
     "CostCenter": "821146001",
     "Quantity": "6",
     "Cap.date": "12.03.2013"
@@ -1713,7 +1713,7 @@
     "id": "6200001878",
     "Asset No.": "6200001878",
     "Asset description": "VERTICAL MULTISTAGE CENTRIFUGAL PUMP",
-    "Location": "",
+    "Location": "D(1) BOILER ROOM",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.06.2012"
@@ -1722,7 +1722,7 @@
     "id": "4200001347",
     "Asset No.": "4200001347",
     "Asset description": "ALMARI SHOWCASE - 6.5' x 8' x 2'",
-    "Location": "",
+    "Location": "ADM(1),LOBBY",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "20.12.2011"
@@ -1731,7 +1731,7 @@
     "id": "6200001772",
     "Asset No.": "6200001772",
     "Asset description": "STAINLESS STEEL TROLLEY 960MMX1150MM",
-    "Location": "",
+    "Location": "E(4)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "15.09.2011"
@@ -1740,7 +1740,7 @@
     "id": "6200001773",
     "Asset No.": "6200001773",
     "Asset description": "TROLLEY MEDIA 29''(L) X 21''(W) X 20",
-    "Location": "",
+    "Location": "E (3)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "15.09.2011"
@@ -1749,7 +1749,7 @@
     "id": "6200001776",
     "Asset No.": "6200001776",
     "Asset description": "TROLLEY 2 TIER 24''(L) X 15''(W) X 2",
-    "Location": "",
+    "Location": "I(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "15.09.2011"
@@ -1758,7 +1758,7 @@
     "id": "4100001624",
     "Asset No.": "4100001624",
     "Asset description": "TISSUE CULTURE INFORMATION SYSTEM",
-    "Location": "",
+    "Location": "ADM(1) BILIK KOMPUTER",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.08.2011"
@@ -1767,7 +1767,7 @@
     "id": "1200000032",
     "Asset No.": "1200000032",
     "Asset description": "TAMBAHAN BILIK 'DARK CULTURE'",
-    "Location": "",
+    "Location": "BANGUNAN BLOK C1",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.01.2011"
@@ -1776,7 +1776,7 @@
     "id": "6200001641",
     "Asset No.": "6200001641",
     "Asset description": "KARCHER VACUUM CLEANER MODEL DS5600",
-    "Location": "",
+    "Location": "M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "08.12.2010"
@@ -1785,7 +1785,7 @@
     "id": "6200001320",
     "Asset No.": "6200001320",
     "Asset description": "STAINLESS STEEL TROLLEY TYPE 304 (D-",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "03.12.2010"
@@ -1794,7 +1794,7 @@
     "id": "6200001321",
     "Asset No.": "6200001321",
     "Asset description": "STAINLESS STEEL TROLLEY TYPE 304 (D-",
-    "Location": "",
+    "Location": "A(12),B(1)C (2) J(5)",
     "CostCenter": "821146001",
     "Quantity": "20",
     "Cap.date": "03.12.2010"
@@ -1803,7 +1803,7 @@
     "id": "6200001323",
     "Asset No.": "6200001323",
     "Asset description": "STAINLESS STEEL TROLLEY TYPE 304 (D-",
-    "Location": "",
+    "Location": "H(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "03.12.2010"
@@ -1812,7 +1812,7 @@
     "id": "6200001384",
     "Asset No.": "6200001384",
     "Asset description": "STAINLESS STEEL TROLLEY TYPE 304 (D-",
-    "Location": "",
+    "Location": "A(2),C (1)G(1),H(1),J(1)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "03.12.2010"
@@ -1821,7 +1821,7 @@
     "id": "6200001389",
     "Asset No.": "6200001389",
     "Asset description": "STAINLESS STEEL TROLLEY TYPE 304 (D-",
-    "Location": "",
+    "Location": "A(1)*",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "03.12.2010"
@@ -1830,7 +1830,7 @@
     "id": "6200001602",
     "Asset No.": "6200001602",
     "Asset description": "STAINLESS STEEL TROLLEY",
-    "Location": "",
+    "Location": "E(8)",
     "CostCenter": "821146001",
     "Quantity": "8",
     "Cap.date": "30.08.2010"
@@ -1839,7 +1839,7 @@
     "id": "6200001568",
     "Asset No.": "6200001568",
     "Asset description": "RETANGULAR SECTION PRIORCLAVE 700 L",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "17.08.2010"
@@ -1848,7 +1848,7 @@
     "id": "4100001869",
     "Asset No.": "4100001869",
     "Asset description": "ARTAK MEETING TABLE MODEL D 202",
-    "Location": "",
+    "Location": "ADM(1) BLK REHAT",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "18.05.2010"
@@ -1857,7 +1857,7 @@
     "id": "4100001614",
     "Asset No.": "4100001614",
     "Asset description": "AMPLIFIER AMPRESS PX2300",
-    "Location": "",
+    "Location": "ADM(2),CONTROL ROOM",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.05.2010"
@@ -1866,7 +1866,7 @@
     "id": "4100001615",
     "Asset No.": "4100001615",
     "Asset description": "AUDIO MIXER INTER M PX288",
-    "Location": "",
+    "Location": "ADM(1),CONTROL ROOM",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.05.2010"
@@ -1875,7 +1875,7 @@
     "id": "6200001316",
     "Asset No.": "6200001316",
     "Asset description": "LAMINAR FLOW",
-    "Location": "",
+    "Location": "A(2),F(1),H(1) I (2)",
     "CostCenter": "821146001",
     "Quantity": "6",
     "Cap.date": "21.04.2010"
@@ -1884,7 +1884,7 @@
     "id": "6200001317",
     "Asset No.": "6200001317",
     "Asset description": "EPOXY COATED GALVANIZED",
-    "Location": "",
+    "Location": "A(2),F(1),H(1) I (2)",
     "CostCenter": "821146001",
     "Quantity": "6",
     "Cap.date": "21.04.2010"
@@ -1893,7 +1893,7 @@
     "id": "6200001318",
     "Asset No.": "6200001318",
     "Asset description": "TOUCH-O MATIC GAS BURNER",
-    "Location": "",
+    "Location": "A(3),F(1),H(2)",
     "CostCenter": "821146001",
     "Quantity": "6",
     "Cap.date": "21.04.2010"
@@ -1902,7 +1902,7 @@
     "id": "9900000417",
     "Asset No.": "9900000417",
     "Asset description": "KERUSI TINGGI JENIS BAR STOOL BERSAN",
-    "Location": "",
+    "Location": "G (5) lupus 2",
     "CostCenter": "821146001",
     "Quantity": "5",
     "Cap.date": "01.04.2010"
@@ -1911,7 +1911,7 @@
     "id": "4200001535",
     "Asset No.": "4200001535",
     "Asset description": "KERUSI LOW BACK",
-    "Location": "",
+    "Location": "ADM BILIK PUAN RAFIDAH",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "25.01.2010"
@@ -1920,7 +1920,7 @@
     "id": "6200001505",
     "Asset No.": "6200001505",
     "Asset description": "TROLLY BUCKET MEDIA",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.01.2010"
@@ -1929,7 +1929,7 @@
     "id": "6200001506",
     "Asset No.": "6200001506",
     "Asset description": "TROLI KECIL 3 TINGKAT(24'X15'X24')",
-    "Location": "",
+    "Location": "B(1)F (2) G(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.01.2010"
@@ -1938,7 +1938,7 @@
     "id": "6200001510",
     "Asset No.": "6200001510",
     "Asset description": "TROLI MIXER STIRRER",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.01.2010"
@@ -1947,7 +1947,7 @@
     "id": "4200001564",
     "Asset No.": "4200001564",
     "Asset description": "WATER DRINKING FOUNTAIN",
-    "Location": "",
+    "Location": "ADM(1) CAFE",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "09.11.2009"
@@ -1956,7 +1956,7 @@
     "id": "4100001891",
     "Asset No.": "4100001891",
     "Asset description": "KABINET SIZE: 5' x  2' x  8'",
-    "Location": "",
+    "Location": "OFFICE EXEC I",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.07.2009"
@@ -1965,7 +1965,7 @@
     "id": "9900000380",
     "Asset No.": "9900000380",
     "Asset description": "MEJA BANQUET CLIPBOARD",
-    "Location": "",
+    "Location": "ADM(16) A (BILIK OFIS)(1)D(1)H (2)",
     "CostCenter": "821146001",
     "Quantity": "20",
     "Cap.date": "24.06.2009"
@@ -1974,7 +1974,7 @@
     "id": "4100001890",
     "Asset No.": "4100001890",
     "Asset description": "MEJA SETIAUSAHA",
-    "Location": "",
+    "Location": "OFFICE EXEC I",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "22.06.2009"
@@ -1983,7 +1983,7 @@
     "id": "4200001563",
     "Asset No.": "4200001563",
     "Asset description": "KERUSI EKSEKUTIF MODEL LS0001",
-    "Location": "",
+    "Location": "I(1) BLK EKS",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "12.06.2009"
@@ -1992,7 +1992,7 @@
     "id": "6200001469",
     "Asset No.": "6200001469",
     "Asset description": "505L LOW PULSE TWIN CHANNEL PUMP HEAD",
-    "Location": "",
+    "Location": "D(2)DIJANGKA LUPUS OGOS 2025",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.04.2009"
@@ -2001,7 +2001,7 @@
     "id": "6200001470",
     "Asset No.": "6200001470",
     "Asset description": "505L LOW PULSE TWIN CHANNEL EXTENSIO",
-    "Location": "",
+    "Location": "D(2) DIJANGKA LUPUS OGOS 2025",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.04.2009"
@@ -2010,7 +2010,7 @@
     "id": "4100001889",
     "Asset No.": "4100001889",
     "Asset description": "MEJA SEKRETERI L SHAPED",
-    "Location": "",
+    "Location": "ADM(1)BLK DR CT",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "18.03.2009"
@@ -2019,7 +2019,7 @@
     "id": "6200001468",
     "Asset No.": "6200001468",
     "Asset description": "CENTRALIZED WATER FILTRATION SYSTEM",
-    "Location": "",
+    "Location": "D(1) ATAS",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.03.2009"
@@ -2028,7 +2028,7 @@
     "id": "6200001378",
     "Asset No.": "6200001378",
     "Asset description": "TROLI DISPENSE",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "30.07.2008"
@@ -2037,7 +2037,7 @@
     "id": "6200001380",
     "Asset No.": "6200001380",
     "Asset description": "TROLI 3 TINGKAT KE GROWTH",
-    "Location": "",
+    "Location": "F (1) G(1)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "30.07.2008"
@@ -2046,7 +2046,7 @@
     "id": "6200001381",
     "Asset No.": "6200001381",
     "Asset description": "TROLI 3 TINGKAT -31' x 18'",
-    "Location": "",
+    "Location": "F (2) G(1),H(3)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "30.07.2008"
@@ -2055,7 +2055,7 @@
     "id": "6200001382",
     "Asset No.": "6200001382",
     "Asset description": "TROLI 3 TINGKAT -15'",
-    "Location": "",
+    "Location": "A(3),AI(1),B(4),G(10),I(5)",
     "CostCenter": "821146001",
     "Quantity": "23",
     "Cap.date": "30.07.2008"
@@ -2064,7 +2064,7 @@
     "id": "6200001383",
     "Asset No.": "6200001383",
     "Asset description": "TROLI BESAR-29' x 21'",
-    "Location": "",
+    "Location": "G(3), H(2),I(1)",
     "CostCenter": "821146001",
     "Quantity": "6",
     "Cap.date": "30.07.2008"
@@ -2073,7 +2073,7 @@
     "id": "6200001385",
     "Asset No.": "6200001385",
     "Asset description": "TROLI EXCHANGER",
-    "Location": "",
+    "Location": "E(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.07.2008"
@@ -2082,7 +2082,7 @@
     "id": "6200001386",
     "Asset No.": "6200001386",
     "Asset description": "TROLI ISI MEDIA",
-    "Location": "",
+    "Location": "~D",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "30.07.2008"
@@ -2091,7 +2091,7 @@
     "id": "6200001388",
     "Asset No.": "6200001388",
     "Asset description": "TROLI KECIL 2 TINGKAT-31' x 18'",
-    "Location": "",
+    "Location": "A(5), I (1)",
     "CostCenter": "821146001",
     "Quantity": "6",
     "Cap.date": "30.07.2008"
@@ -2100,7 +2100,7 @@
     "id": "9900000232",
     "Asset No.": "9900000232",
     "Asset description": "KIPAS DINDING 16''-ADMIN ENSTEK",
-    "Location": "",
+    "Location": "POST GUARD(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "21.07.2008"
@@ -2109,7 +2109,7 @@
     "id": "4100001376",
     "Asset No.": "4100001376",
     "Asset description": "DIAMOND AC ARC WEILDING",
-    "Location": "",
+    "Location": "M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "12.02.2008"
@@ -2118,7 +2118,7 @@
     "id": "4100001377",
     "Asset No.": "4100001377",
     "Asset description": "HITACHI CUT OFF MACHINE",
-    "Location": "",
+    "Location": "M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "12.02.2008"
@@ -2127,7 +2127,7 @@
     "id": "6200001350",
     "Asset No.": "6200001350",
     "Asset description": "WATSON MARLOW DISPENSING PUMP - 323D",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2007"
@@ -2136,7 +2136,7 @@
     "id": "6200001351",
     "Asset No.": "6200001351",
     "Asset description": "WATSON MARLOW 3 ROLLER EXTENSION PUM",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "31.12.2007"
@@ -2145,7 +2145,7 @@
     "id": "9900000134",
     "Asset No.": "9900000134",
     "Asset description": "STAPLER MAX 12/N 17",
-    "Location": "",
+    "Location": "ADM(1) bilik komputer",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.09.2007"
@@ -2154,7 +2154,7 @@
     "id": "9900000135",
     "Asset No.": "9900000135",
     "Asset description": "OPEN POWER PUNCHE PU 3000",
-    "Location": "",
+    "Location": "ADM(1) bilik komputer",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.09.2007"
@@ -2163,7 +2163,7 @@
     "id": "4200000997",
     "Asset No.": "4200000997",
     "Asset description": "HOSE CABINET - 560 x 1163 x 300mm",
-    "Location": "",
+    "Location": "ADM(2) WING KIRI/KANAN",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "21.08.2007"
@@ -2172,7 +2172,7 @@
     "id": "6200001090",
     "Asset No.": "6200001090",
     "Asset description": "TROLLEY EXCHANGER - 940 x 960 x 740m",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "17.06.2007"
@@ -2181,7 +2181,7 @@
     "id": "6200001115",
     "Asset No.": "6200001115",
     "Asset description": "TROLI LADDER (STEP)",
-    "Location": "",
+    "Location": "D(3),H(5)",
     "CostCenter": "821146001",
     "Quantity": "8",
     "Cap.date": "17.06.2007"
@@ -2190,7 +2190,7 @@
     "id": "6200001116",
     "Asset No.": "6200001116",
     "Asset description": "TROLI WATER BATH TRAY WITH DRAIN OUT",
-    "Location": "",
+    "Location": "KAFETERIA",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "17.06.2007"
@@ -2199,7 +2199,7 @@
     "id": "6200001119",
     "Asset No.": "6200001119",
     "Asset description": "TROLI G TYPE 2 - 29 x 21 x 24m",
-    "Location": "",
+    "Location": "B(2)D(6),E(2),B (1),F(2)G(13),H(7),I(3)",
     "CostCenter": "821146001",
     "Quantity": "33",
     "Cap.date": "17.06.2007"
@@ -2208,7 +2208,7 @@
     "id": "6200001120",
     "Asset No.": "6200001120",
     "Asset description": "TROLI  TYPE 7",
-    "Location": "",
+    "Location": "~D (2)-Troli untuk letak periuk besar",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "17.06.2007"
@@ -2217,7 +2217,7 @@
     "id": "6200001123",
     "Asset No.": "6200001123",
     "Asset description": "MEJA PISANG",
-    "Location": "",
+    "Location": "D1(1),BWH TANGGA",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "17.06.2007"
@@ -2226,7 +2226,7 @@
     "id": "6200001314",
     "Asset No.": "6200001314",
     "Asset description": "LAMINAR AIR FLOW CABINET",
-    "Location": "",
+    "Location": "F(6)G(5),H(5)",
     "CostCenter": "821146001",
     "Quantity": "15",
     "Cap.date": "31.05.2007"
@@ -2235,7 +2235,7 @@
     "id": "6200001088",
     "Asset No.": "6200001088",
     "Asset description": "AUTOCLAVE (VO)",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "24.04.2007"
@@ -2244,7 +2244,7 @@
     "id": "9900000221",
     "Asset No.": "9900000221",
     "Asset description": "STAINLESS STEEL ROUND BIN",
-    "Location": "",
+    "Location": "TANDAS L (1) / P (1)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "24.04.2007"
@@ -2253,7 +2253,7 @@
     "id": "9900000223",
     "Asset No.": "9900000223",
     "Asset description": "4' TILE CUTTER/CIRCULAR SAW",
-    "Location": "",
+    "Location": "M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "24.04.2007"
@@ -2262,7 +2262,7 @@
     "id": "4100001327",
     "Asset No.": "4100001327",
     "Asset description": "HAND DRYER - ALFA",
-    "Location": "",
+    "Location": "TANDAS L/P(1)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.03.2007"
@@ -2271,7 +2271,7 @@
     "id": "6200001080",
     "Asset No.": "6200001080",
     "Asset description": "MEJA BERFOMICA",
-    "Location": "",
+    "Location": "ADM(1),CONTROL ROOM",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.02.2007"
@@ -2280,7 +2280,7 @@
     "id": "6200001081",
     "Asset No.": "6200001081",
     "Asset description": "MEJA BERFOMICA",
-    "Location": "",
+    "Location": "ADM(1),CONTROL ROOM",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.02.2007"
@@ -2289,7 +2289,7 @@
     "id": "6200001086",
     "Asset No.": "6200001086",
     "Asset description": "POWER TRUCK",
-    "Location": "",
+    "Location": "E(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.02.2007"
@@ -2298,7 +2298,7 @@
     "id": "4100001320",
     "Asset No.": "4100001320",
     "Asset description": "KELENGKAPAN DI MAIN LOBBY BGN.BIOTEK",
-    "Location": "",
+    "Location": "ADM(1)LOBBY",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.01.2007"
@@ -2307,7 +2307,7 @@
     "id": "6200001082",
     "Asset No.": "6200001082",
     "Asset description": "BOSH BATTERY DRILL",
-    "Location": "",
+    "Location": "M(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.01.2007"
@@ -2316,7 +2316,7 @@
     "id": "6200001084",
     "Asset No.": "6200001084",
     "Asset description": "PANASONIC REFRIGERATOR",
-    "Location": "",
+    "Location": "Kedai KSR",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.01.2007"
@@ -2325,7 +2325,7 @@
     "id": "6200001085",
     "Asset No.": "6200001085",
     "Asset description": "MISTRAL REFRIGERATOR",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.01.2007"
@@ -2334,7 +2334,7 @@
     "id": "9900000209",
     "Asset No.": "9900000209",
     "Asset description": "RAK KASUT",
-    "Location": "",
+    "Location": "A(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.01.2007"
@@ -2343,7 +2343,7 @@
     "id": "9900000211",
     "Asset No.": "9900000211",
     "Asset description": "RAK KASUT",
-    "Location": "",
+    "Location": "H(1),J(1)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "31.01.2007"
@@ -2352,7 +2352,7 @@
     "id": "6200001041",
     "Asset No.": "6200001041",
     "Asset description": "RAK KASUT",
-    "Location": "",
+    "Location": "D(1),E(1)F (1)LUPUS 1",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.01.2007"
@@ -2361,7 +2361,7 @@
     "id": "9900000214",
     "Asset No.": "9900000214",
     "Asset description": "RAK KASUT",
-    "Location": "",
+    "Location": "G(1),H(1) I (1)LUPUS 1",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "30.01.2007"
@@ -2370,7 +2370,7 @@
     "id": "4200000958",
     "Asset No.": "4200000958",
     "Asset description": "TABLE (FORMICA TOP DIAGRAM B)",
-    "Location": "",
+    "Location": "ADM MARINA) (1) FARAH ASLINDA(1) PN RMK (1) PN RBN(1)PPPTR (1)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "31.12.2006"
@@ -2379,7 +2379,7 @@
     "id": "4200000959",
     "Asset No.": "4200000959",
     "Asset description": "TABLE (FORMICA TOP DIAGRAM C)",
-    "Location": "",
+    "Location": "D(2),G(1),H(1),I(1)",
     "CostCenter": "821146001",
     "Quantity": "5",
     "Cap.date": "31.12.2006"
@@ -2388,7 +2388,7 @@
     "id": "4200000960",
     "Asset No.": "4200000960",
     "Asset description": "TABLE (FORMICA TOP DIAGRAM D)",
-    "Location": "",
+    "Location": "ADM(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2397,7 +2397,7 @@
     "id": "4200000961",
     "Asset No.": "4200000961",
     "Asset description": "SHELF CABINET (4 TIERS) - GLASS DOOR",
-    "Location": "",
+    "Location": "BILIK DR SITI (1) BILIK EXEC R&D (2)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "31.12.2006"
@@ -2406,7 +2406,7 @@
     "id": "4200000963",
     "Asset No.": "4200000963",
     "Asset description": "CABINET (PANTRY)",
-    "Location": "",
+    "Location": "ADM(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2415,7 +2415,7 @@
     "id": "4200000964",
     "Asset No.": "4200000964",
     "Asset description": "PIGEON HOLE WOOD (4 x 3 HOLES)",
-    "Location": "",
+    "Location": "ADM (1)BILIK KOMPUTER",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2424,7 +2424,7 @@
     "id": "4200000965",
     "Asset No.": "4200000965",
     "Asset description": "PIGEON HOLE WOOD (6 x 5 HOLES)",
-    "Location": "",
+    "Location": "SURAU P (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2433,7 +2433,7 @@
     "id": "4200000968",
     "Asset No.": "4200000968",
     "Asset description": "CHAIR HT 620(M) (MATIC COMFORT SERIE",
-    "Location": "",
+    "Location": "D(3),G(1)bilik farah aslinda,I(1)",
     "CostCenter": "821146001",
     "Quantity": "5",
     "Cap.date": "31.12.2006"
@@ -2442,7 +2442,7 @@
     "id": "4200000969",
     "Asset No.": "4200000969",
     "Asset description": "CHAIR HT 620(L) (MATIC COMFORT SERIE",
-    "Location": "",
+    "Location": "ADM(3),A(1)H(1)",
     "CostCenter": "821146001",
     "Quantity": "6",
     "Cap.date": "31.12.2006"
@@ -2451,7 +2451,7 @@
     "id": "4200000970",
     "Asset No.": "4200000970",
     "Asset description": "CHAIR HT 630(S) (MATIC COMFORT SERIE",
-    "Location": "",
+    "Location": "ADMIN (3),A(1),A1 (2)D(4),G(2),F.ASLINDA(2)H(2)",
     "CostCenter": "821146001",
     "Quantity": "33",
     "Cap.date": "31.12.2006"
@@ -2460,7 +2460,7 @@
     "id": "4200000972",
     "Asset No.": "4200000972",
     "Asset description": "TABLE (FIBER BOARD.FOMICA TOP,IRON L",
-    "Location": "",
+    "Location": "ADMIN CAF  (14)",
     "CostCenter": "821146001",
     "Quantity": "14",
     "Cap.date": "31.12.2006"
@@ -2469,7 +2469,7 @@
     "id": "4200000973",
     "Asset No.": "4200000973",
     "Asset description": "CHAIRS (WOODEN WITH BACK REST,NOT FO",
-    "Location": "",
+    "Location": "ADMIN CAF  (70)",
     "CostCenter": "821146001",
     "Quantity": "70",
     "Cap.date": "31.12.2006"
@@ -2478,7 +2478,7 @@
     "id": "4200000974",
     "Asset No.": "4200000974",
     "Asset description": "FILING CABINET (4 DRAWER)",
-    "Location": "",
+    "Location": "A(1),C1(1),D(1),G(1),H(1)I(1),ADM(3)NURSERY (1)",
     "CostCenter": "821146001",
     "Quantity": "11",
     "Cap.date": "31.12.2006"
@@ -2487,7 +2487,7 @@
     "id": "4200000975",
     "Asset No.": "4200000975",
     "Asset description": "MAGNETIC WHITE BOARD C/W ALUMINIUM F",
-    "Location": "",
+    "Location": "ADM (1) BLK REHAT",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2496,7 +2496,7 @@
     "id": "4200000976",
     "Asset No.": "4200000976",
     "Asset description": "MAGNETIC WHITE BOARD C",
-    "Location": "",
+    "Location": "ADM(1) CONTROL ROOM",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2505,7 +2505,7 @@
     "id": "4200000977",
     "Asset No.": "4200000977",
     "Asset description": "TO CONSTRUCT SOFT BOARD",
-    "Location": "",
+    "Location": "ADM(1) PAPAN NOTIS",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2514,7 +2514,7 @@
     "id": "4200000981",
     "Asset No.": "4200000981",
     "Asset description": "TO CONSTRUCT RECEPTION COUNTER (META",
-    "Location": "",
+    "Location": "ADM(1)LOBBY",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2523,7 +2523,7 @@
     "id": "4200000983",
     "Asset No.": "4200000983",
     "Asset description": "TO CONSTRUCT ISLAND PRODUCT DISPLAY",
-    "Location": "",
+    "Location": "ADM(1)LOBBY",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2532,7 +2532,7 @@
     "id": "4200000984",
     "Asset No.": "4200000984",
     "Asset description": "COFFEE TABLE (GLASS TOP)",
-    "Location": "",
+    "Location": "ADM(1)LOBBY",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2541,7 +2541,7 @@
     "id": "4200000985",
     "Asset No.": "4200000985",
     "Asset description": "SOFA (3+2 SEATERS)",
-    "Location": "",
+    "Location": "ADM(1)LOBBY",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2550,7 +2550,7 @@
     "id": "4200000987",
     "Asset No.": "4200000987",
     "Asset description": "CHAIR HT 630(S)(MATIC COMFORT SERIES",
-    "Location": "",
+    "Location": "ADM(16)MEETING ROOM 4 Pindah PPPTR",
     "CostCenter": "821146001",
     "Quantity": "16",
     "Cap.date": "31.12.2006"
@@ -2559,7 +2559,7 @@
     "id": "4200000988",
     "Asset No.": "4200000988",
     "Asset description": "TABLE (FIBER BOARD,FOMICA TOP,IRON L",
-    "Location": "",
+    "Location": "ADM(5)",
     "CostCenter": "821146001",
     "Quantity": "5",
     "Cap.date": "31.12.2006"
@@ -2568,7 +2568,7 @@
     "id": "6200001094",
     "Asset No.": "6200001094",
     "Asset description": "AUTOCLAVE DI MAKMAL BIOTEKNOLOGI",
-    "Location": "",
+    "Location": "D(2),E(1)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "31.12.2006"
@@ -2577,7 +2577,7 @@
     "id": "6200001105",
     "Asset No.": "6200001105",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "A(6)",
     "CostCenter": "821146001",
     "Quantity": "6",
     "Cap.date": "31.12.2006"
@@ -2586,7 +2586,7 @@
     "id": "6200001106",
     "Asset No.": "6200001106",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "A(1)*",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2595,7 +2595,7 @@
     "id": "6200001111",
     "Asset No.": "6200001111",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.65m",
-    "Location": "",
+    "Location": "C (10) STOR MEDIA 2",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2604,7 +2604,7 @@
     "id": "6200001112",
     "Asset No.": "6200001112",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.65m",
-    "Location": "",
+    "Location": "* C (DCR 7 & 8)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "31.12.2006"
@@ -2613,7 +2613,7 @@
     "id": "6200001113",
     "Asset No.": "6200001113",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.65m",
-    "Location": "",
+    "Location": "* C (DCR 9)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -2622,7 +2622,7 @@
     "id": "3100000292",
     "Asset No.": "3100000292",
     "Asset description": "MOTOR RODA TIGA - HONDA EX5 - WQA 58",
-    "Location": "",
+    "Location": "M (KABIN MAINTENANCE)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.12.2006"
@@ -2631,7 +2631,7 @@
     "id": "4100001323",
     "Asset No.": "4100001323",
     "Asset description": "CCTV",
-    "Location": "",
+    "Location": "ADM(1)CONTROL ROOM",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.12.2006"
@@ -2640,7 +2640,7 @@
     "id": "6200000791",
     "Asset No.": "6200000791",
     "Asset description": "CIRCULATING WATER BATH",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.12.2006"
@@ -2649,7 +2649,7 @@
     "id": "6200001040",
     "Asset No.": "6200001040",
     "Asset description": "WALL HANG CABINET",
-    "Location": "",
+    "Location": "D(4) BLK BANANA",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "30.12.2006"
@@ -2658,7 +2658,7 @@
     "id": "6200001091",
     "Asset No.": "6200001091",
     "Asset description": "AIR SHOWER TYPE 1",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.12.2006"
@@ -2667,7 +2667,7 @@
     "id": "6200001092",
     "Asset No.": "6200001092",
     "Asset description": "AIR SHOWER TYPE 2",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.12.2006"
@@ -2676,7 +2676,7 @@
     "id": "4200000989",
     "Asset No.": "4200000989",
     "Asset description": "PAPAN TANDA (EXTRANCE WALL)'PUSAT BI",
-    "Location": "",
+    "Location": "ADM(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "13.11.2006"
@@ -2685,7 +2685,7 @@
     "id": "4200000990",
     "Asset No.": "4200000990",
     "Asset description": "PAPAN TANDA (FEATURE WALL)PUSAT BIOT",
-    "Location": "",
+    "Location": "ADM(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "13.11.2006"
@@ -2694,7 +2694,7 @@
     "id": "4200000991",
     "Asset No.": "4200000991",
     "Asset description": "PAPAN TANDA (RECEPTION AREA WALL)PUS",
-    "Location": "",
+    "Location": "ADM(1)LOBBY",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "13.11.2006"
@@ -2703,7 +2703,7 @@
     "id": "6200000848",
     "Asset No.": "6200000848",
     "Asset description": "STEPS (LADDER)",
-    "Location": "",
+    "Location": "D(2) *",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "03.11.2006"
@@ -2712,7 +2712,7 @@
     "id": "6200000849",
     "Asset No.": "6200000849",
     "Asset description": "TROLLEY BESAR",
-    "Location": "",
+    "Location": "H(3)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "03.11.2006"
@@ -2721,7 +2721,7 @@
     "id": "6200000851",
     "Asset No.": "6200000851",
     "Asset description": "DRYING CABINET TROLLEY",
-    "Location": "",
+    "Location": "E(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "03.11.2006"
@@ -2730,7 +2730,7 @@
     "id": "6200000852",
     "Asset No.": "6200000852",
     "Asset description": "PERMANET BUCKET TRACK",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "03.11.2006"
@@ -2739,7 +2739,7 @@
     "id": "6200000999",
     "Asset No.": "6200000999",
     "Asset description": "S/S SHELF-1.1 W TYPE 1 (0.9(W) X 1.5",
-    "Location": "",
+    "Location": "A1(1) D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -2748,7 +2748,7 @@
     "id": "6200001000",
     "Asset No.": "6200001000",
     "Asset description": "S/S SHELF-1.2 W TYPE 1 (0.9(W) X 2.5",
-    "Location": "",
+    "Location": "E(2) D (1)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "19.10.2006"
@@ -2757,7 +2757,7 @@
     "id": "6200001002",
     "Asset No.": "6200001002",
     "Asset description": "S/S SHELF-1.4 GM/W TYPE 4 (1.1m(W) X",
-    "Location": "",
+    "Location": "D(4)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "19.10.2006"
@@ -2766,7 +2766,7 @@
     "id": "6200001003",
     "Asset No.": "6200001003",
     "Asset description": "S/S SHELF-1.5 GM/W TYPE 5 (0.9m(W) X",
-    "Location": "",
+    "Location": "D(2) F (10)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "19.10.2006"
@@ -2775,7 +2775,7 @@
     "id": "6200001004",
     "Asset No.": "6200001004",
     "Asset description": "S/S SHELF-1.6 GM/W TYPE 6 (1.1m(W) X",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -2784,7 +2784,7 @@
     "id": "6200001005",
     "Asset No.": "6200001005",
     "Asset description": "S/S SHELF-1.7 SAJ TYPE 7 (0.9m(W) X",
-    "Location": "",
+    "Location": "F (5)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -2793,7 +2793,7 @@
     "id": "6200001006",
     "Asset No.": "6200001006",
     "Asset description": "S/S SHELF-1.8 MP TYPE 8 (0.9m(W) X 3",
-    "Location": "",
+    "Location": "D(2) H (3)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -2802,7 +2802,7 @@
     "id": "6200001007",
     "Asset No.": "6200001007",
     "Asset description": "S/S SHELF-1.9 MP TYPE 9 (0.9m(W) X 5",
-    "Location": "",
+    "Location": "D(2) F(6)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -2811,7 +2811,7 @@
     "id": "6200001008",
     "Asset No.": "6200001008",
     "Asset description": "S/S SHELF-1.10 MP TYPE 10 (0.9m(W) X",
-    "Location": "",
+    "Location": "C (6)D (2)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -2820,7 +2820,7 @@
     "id": "6200001015",
     "Asset No.": "6200001015",
     "Asset description": "S/S SHELF-1.6 MS TYPE 6 (0.9m(W) X 3",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -2829,7 +2829,7 @@
     "id": "6200001020",
     "Asset No.": "6200001020",
     "Asset description": "S/S SHELF-1.11 MS TYPE 11 (1.1m X 2.",
-    "Location": "",
+    "Location": "* D",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -2838,7 +2838,7 @@
     "id": "6200000853",
     "Asset No.": "6200000853",
     "Asset description": "BOTTLE BUCKET",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "10.10.2006"
@@ -2847,7 +2847,7 @@
     "id": "6200000854",
     "Asset No.": "6200000854",
     "Asset description": "TEST TUBE BUCKET",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "10.10.2006"
@@ -2856,7 +2856,7 @@
     "id": "6200000992",
     "Asset No.": "6200000992",
     "Asset description": "LAMINAR AIR FLOW CABINET",
-    "Location": "",
+    "Location": "A(7)B (1) C(2) F(4) G(3)",
     "CostCenter": "821146001",
     "Quantity": "18",
     "Cap.date": "01.10.2006"
@@ -2865,7 +2865,7 @@
     "id": "6200000979",
     "Asset No.": "6200000979",
     "Asset description": "ICE CUBE MACHINE",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "21.09.2006"
@@ -2874,7 +2874,7 @@
     "id": "6200001031",
     "Asset No.": "6200001031",
     "Asset description": "INDUSTRIAL WET AND DRY VACUUM",
-    "Location": "",
+    "Location": "M (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "14.09.2006"
@@ -2883,7 +2883,7 @@
     "id": "6200000988",
     "Asset No.": "6200000988",
     "Asset description": "KABINET BESI DGN 2 PINTU SLIDING BER",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "12.09.2006"
@@ -2892,7 +2892,7 @@
     "id": "6200000981",
     "Asset No.": "6200000981",
     "Asset description": "STIRRER CAPACITY : 100L",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "05.09.2006"
@@ -2901,7 +2901,7 @@
     "id": "9900000195",
     "Asset No.": "9900000195",
     "Asset description": "KERUSI CURSION TINGGI JENIS BAR STOO",
-    "Location": "",
+    "Location": "LUPUS 9 ,D(6) H(3) I (7)",
     "CostCenter": "821146001",
     "Quantity": "16",
     "Cap.date": "05.09.2006"
@@ -2910,7 +2910,7 @@
     "id": "6200001029",
     "Asset No.": "6200001029",
     "Asset description": "RO WATER SYSTEM (KB 03/2006) 200 LIT",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "04.09.2006"
@@ -2919,7 +2919,7 @@
     "id": "1200000027",
     "Asset No.": "1200000027",
     "Asset description": "FELDA BIOTEKNOLOGI CENTRE DI ENSTEK",
-    "Location": "",
+    "Location": "ADM(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.09.2006"
@@ -2928,7 +2928,7 @@
     "id": "1200000027",
     "Asset No.": "1200000027",
     "Asset description": "TIANG BENDERA DI MAKMAL BIOTEKNOLOGI",
-    "Location": "",
+    "Location": "ADM(1)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "01.09.2006"
@@ -2937,7 +2937,7 @@
     "id": "6200000974",
     "Asset No.": "6200000974",
     "Asset description": "JACKETED VESSEL (KB 04/2006)",
-    "Location": "",
+    "Location": "D(1)LUPUS 2023.BELUM ADA BUYER",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.09.2006"
@@ -2946,7 +2946,7 @@
     "id": "6200000975",
     "Asset No.": "6200000975",
     "Asset description": "PANASONIC REFRIGERATOR",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "29.08.2006"
@@ -2955,7 +2955,7 @@
     "id": "6200000986",
     "Asset No.": "6200000986",
     "Asset description": "OVEN",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "24.08.2006"
@@ -2964,7 +2964,7 @@
     "id": "6200000925",
     "Asset No.": "6200000925",
     "Asset description": "PH METER ORION 3 STAR",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "18.08.2006"
@@ -2973,7 +2973,7 @@
     "id": "6200000927",
     "Asset No.": "6200000927",
     "Asset description": "ANALYTICAL BALANCE",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "18.08.2006"
@@ -2982,7 +2982,7 @@
     "id": "6200000959",
     "Asset No.": "6200000959",
     "Asset description": "TROLLEY EXCHANGER",
-    "Location": "",
+    "Location": "D(1), E(1)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "02.08.2006"
@@ -2991,7 +2991,7 @@
     "id": "6200000960",
     "Asset No.": "6200000960",
     "Asset description": "MULTI PURPOSE (3 IN 1) CARRIER",
-    "Location": "",
+    "Location": "D(1), E(1)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "02.08.2006"
@@ -3000,7 +3000,7 @@
     "id": "6200000961",
     "Asset No.": "6200000961",
     "Asset description": "BOTTLE CARRIER",
-    "Location": "",
+    "Location": "D(4)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "02.08.2006"
@@ -3009,7 +3009,7 @@
     "id": "6200000962",
     "Asset No.": "6200000962",
     "Asset description": "TEST TUBE CARRIER",
-    "Location": "",
+    "Location": "D(4)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "02.08.2006"
@@ -3018,7 +3018,7 @@
     "id": "6200000923",
     "Asset No.": "6200000923",
     "Asset description": "FUME CUPBOARD DUSTLESS 4'",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.08.2006"
@@ -3027,7 +3027,7 @@
     "id": "6200000947",
     "Asset No.": "6200000947",
     "Asset description": "PERIUK 10L",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.08.2006"
@@ -3036,7 +3036,7 @@
     "id": "6200000948",
     "Asset No.": "6200000948",
     "Asset description": "PERIUK 12L",
-    "Location": "",
+    "Location": "D(3)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "01.08.2006"
@@ -3045,7 +3045,7 @@
     "id": "6200000951",
     "Asset No.": "6200000951",
     "Asset description": "PERIUK 70L",
-    "Location": "",
+    "Location": "D(4)",
     "CostCenter": "821146001",
     "Quantity": "4",
     "Cap.date": "01.08.2006"
@@ -3054,7 +3054,7 @@
     "id": "6200000984",
     "Asset No.": "6200000984",
     "Asset description": "VORTEXER THERMOLYNE,MAXI MAXI II",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.08.2006"
@@ -3063,7 +3063,7 @@
     "id": "9900000189",
     "Asset No.": "9900000189",
     "Asset description": "DAPUR GAS HIGH PRESSURE E60",
-    "Location": "",
+    "Location": "D(3)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "01.08.2006"
@@ -3081,7 +3081,7 @@
     "id": "6200000971",
     "Asset No.": "6200000971",
     "Asset description": "DRYING CABINET",
-    "Location": "",
+    "Location": "E(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "27.07.2006"
@@ -3090,7 +3090,7 @@
     "id": "6200000963",
     "Asset No.": "6200000963",
     "Asset description": "POWER TRUCK (MOTORIZED TROLLEY)",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "21.07.2006"
@@ -3099,7 +3099,7 @@
     "id": "6200000940",
     "Asset No.": "6200000940",
     "Asset description": "TROLI KECIL TYPE 11",
-    "Location": "",
+    "Location": "F (1)G(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "17.07.2006"
@@ -3108,7 +3108,7 @@
     "id": "6200000941",
     "Asset No.": "6200000941",
     "Asset description": "TROLI KECIL TYPE 12",
-    "Location": "",
+    "Location": "A(1),B(1) G,(6)",
     "CostCenter": "821146001",
     "Quantity": "8",
     "Cap.date": "17.07.2006"
@@ -3117,7 +3117,7 @@
     "id": "6200000967",
     "Asset No.": "6200000967",
     "Asset description": "WATER FILTER VACUUM CLEANER",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "17.07.2006"
@@ -3126,7 +3126,7 @@
     "id": "6200000964",
     "Asset No.": "6200000964",
     "Asset description": "WATER FILTER VACUUM CLEANER",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "05.07.2006"
@@ -3135,7 +3135,7 @@
     "id": "6200000935",
     "Asset No.": "6200000935",
     "Asset description": "TROLI KECIL TYPE G - 31\" x 18\" x 20\"",
-    "Location": "",
+    "Location": "B(2)D(2),I (2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.07.2006"
@@ -3144,7 +3144,7 @@
     "id": "6200000936",
     "Asset No.": "6200000936",
     "Asset description": "TROLI KECIL TYPE 7",
-    "Location": "",
+    "Location": "D(3)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "01.07.2006"
@@ -3153,7 +3153,7 @@
     "id": "6200000938",
     "Asset No.": "6200000938",
     "Asset description": "TROLI KECIL M TYPE 9",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.07.2006"
@@ -3162,7 +3162,7 @@
     "id": "6200000942",
     "Asset No.": "6200000942",
     "Asset description": "WORK BENCH W TYPE 1 - 4' x 2' x 3'",
-    "Location": "",
+    "Location": "* E",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.07.2006"
@@ -3171,7 +3171,7 @@
     "id": "6200000943",
     "Asset No.": "6200000943",
     "Asset description": "WORK BENCH W TYPE 2 - 7' x 3' x 3'",
-    "Location": "",
+    "Location": "E (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.07.2006"
@@ -3180,7 +3180,7 @@
     "id": "6200000944",
     "Asset No.": "6200000944",
     "Asset description": "WORK BENCH W TYPE 3 - 9' x 2' x 3'",
-    "Location": "",
+    "Location": "D(3)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.07.2006"
@@ -3189,7 +3189,7 @@
     "id": "6200000945",
     "Asset No.": "6200000945",
     "Asset description": "WORK BENCH W TYPE 4 - 48\" x 30\" x 36\"",
-    "Location": "",
+    "Location": "E (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.07.2006"
@@ -3198,7 +3198,7 @@
     "id": "6200000946",
     "Asset No.": "6200000946",
     "Asset description": "DRYING RACK - 48\" x 24\" x 28\"",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.07.2006"
@@ -3207,7 +3207,7 @@
     "id": "6200000955",
     "Asset No.": "6200000955",
     "Asset description": "LADDER (STEPS)",
-    "Location": "",
+    "Location": "A(6), D(1),G (6)F(5), I(7)",
     "CostCenter": "821146001",
     "Quantity": "20",
     "Cap.date": "01.07.2006"
@@ -3216,7 +3216,7 @@
     "id": "6200000980",
     "Asset No.": "6200000980",
     "Asset description": "TROLI BESAR TYPE  3 - 41\" x 23\" x 25\"",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.07.2006"
@@ -3225,7 +3225,7 @@
     "id": "9900000187",
     "Asset No.": "9900000187",
     "Asset description": "ALAT PENGACAU MEDIA (S/STEEL)",
-    "Location": "",
+    "Location": "D(3)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "01.07.2006"
@@ -3234,7 +3234,7 @@
     "id": "6200000906",
     "Asset No.": "6200000906",
     "Asset description": "ALTERNATIF SHELF TYPE 1",
-    "Location": "",
+    "Location": "A(8),G(10),H(7),I(6) *",
     "CostCenter": "821146001",
     "Quantity": "36",
     "Cap.date": "31.05.2006"
@@ -3243,7 +3243,7 @@
     "id": "6200000909",
     "Asset No.": "6200000909",
     "Asset description": "ALTERNATIF SHELF TYPE 2",
-    "Location": "",
+    "Location": "A(24),G(16),H(22),I(25)",
     "CostCenter": "821146001",
     "Quantity": "86",
     "Cap.date": "31.05.2006"
@@ -3252,7 +3252,7 @@
     "id": "6200000882",
     "Asset No.": "6200000882",
     "Asset description": "SHREDDER MACHINE,MODEL 2220",
-    "Location": "",
+    "Location": "ADM(1)bilik komputer",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "25.05.2006"
@@ -3261,7 +3261,7 @@
     "id": "9900000177",
     "Asset No.": "9900000177",
     "Asset description": "PAPER CUTTER",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "18.05.2006"
@@ -3270,7 +3270,7 @@
     "id": "6200000895",
     "Asset No.": "6200000895",
     "Asset description": "DRYING CABINET TROLLEY - W TYPE 8",
-    "Location": "",
+    "Location": "E(8)",
     "CostCenter": "821146001",
     "Quantity": "8",
     "Cap.date": "11.05.2006"
@@ -3279,7 +3279,7 @@
     "id": "6200000896",
     "Asset No.": "6200000896",
     "Asset description": "TROLI KECIL G TYPE 2 - 29\" x 21\" x 2",
-    "Location": "",
+    "Location": "D(1), E(7) H(1)",
     "CostCenter": "821146001",
     "Quantity": "8",
     "Cap.date": "11.05.2006"
@@ -3288,7 +3288,7 @@
     "id": "6200000897",
     "Asset No.": "6200000897",
     "Asset description": "TROLI KECIL G TYPE 2 - 29\" x 21\" x 2",
-    "Location": "",
+    "Location": "A(4) D(2)",
     "CostCenter": "821146001",
     "Quantity": "5",
     "Cap.date": "11.05.2006"
@@ -3297,7 +3297,7 @@
     "id": "6200000900",
     "Asset No.": "6200000900",
     "Asset description": "TROLI BESAR TYPE 6 - 44\" x 28\" x 31\"",
-    "Location": "",
+    "Location": "* M",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "11.05.2006"
@@ -3306,7 +3306,7 @@
     "id": "6200000884",
     "Asset No.": "6200000884",
     "Asset description": "PERISTALTIC DISPENSER (MEDIA PREP) 3",
-    "Location": "",
+    "Location": "D(2)D(2) DIJANGKA LUPUS OGOS 2025",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.04.2006"
@@ -3315,7 +3315,7 @@
     "id": "6200000885",
     "Asset No.": "6200000885",
     "Asset description": "PERISTALTIC DISPENSER (MEDIA PREP) W",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.04.2006"
@@ -3324,7 +3324,7 @@
     "id": "9900000290",
     "Asset No.": "9900000290",
     "Asset description": "KABINET LOCKER - MODEL 25A",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "06.01.2006"
@@ -3333,7 +3333,7 @@
     "id": "6200001248",
     "Asset No.": "6200001248",
     "Asset description": "THERMOLLYNE MAXIMAX",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "10.11.2005"
@@ -3342,7 +3342,7 @@
     "id": "4200001560",
     "Asset No.": "4200001560",
     "Asset description": "MEJA SECRETARY",
-    "Location": "",
+    "Location": "J(1) Dah lupus",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "04.05.2005"
@@ -3351,7 +3351,7 @@
     "id": "6200001270",
     "Asset No.": "6200001270",
     "Asset description": "LAMINAR FLOW (WITH STAND)",
-    "Location": "",
+    "Location": "A(1),G(2)",
     "CostCenter": "821146001",
     "Quantity": "3",
     "Cap.date": "03.05.2005"
@@ -3360,7 +3360,7 @@
     "id": "6200001225",
     "Asset No.": "6200001225",
     "Asset description": "Dz/d DISPENSING PUMP",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.05.2005"
@@ -3369,7 +3369,7 @@
     "id": "6200001275",
     "Asset No.": "6200001275",
     "Asset description": "STAINLESS STEEL 2 TIERS TROLLEY C/W",
-    "Location": "",
+    "Location": "C1( 1),I(2)*",
     "CostCenter": "821146001",
     "Quantity": "8",
     "Cap.date": "11.04.2005"
@@ -3378,7 +3378,7 @@
     "id": "6200001227",
     "Asset No.": "6200001227",
     "Asset description": "PORTABLE CABIN (B) 0 20' x 10' x 8.5'",
-    "Location": "",
+    "Location": "KABIN CLEANER",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "17.03.2005"
@@ -3387,7 +3387,7 @@
     "id": "6200001223",
     "Asset No.": "6200001223",
     "Asset description": "PAM AIR MILLI Q - E PURE 4 MODULE SY",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.04.2004"
@@ -3396,7 +3396,7 @@
     "id": "4200001562",
     "Asset No.": "4200001562",
     "Asset description": "KABINET BUKU DENGAN CERMIN - 9' x 18",
-    "Location": "",
+    "Location": "ADMIN BAWAH TANGGA",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.12.2003"
@@ -3405,7 +3405,7 @@
     "id": "6200001220",
     "Asset No.": "6200001220",
     "Asset description": "MOBILE TROLLEY - 16 x 2 x 2",
-    "Location": "",
+    "Location": "~TROLI BUCKET AUTOCLAVE KL",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.10.2003"
@@ -3414,7 +3414,7 @@
     "id": "4100001359",
     "Asset No.": "4100001359",
     "Asset description": "KARCHER AQUA SELECT VACUUM CLEANERS",
-    "Location": "",
+    "Location": "~ C & I",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "01.07.2003"
@@ -3423,7 +3423,7 @@
     "id": "6200001215",
     "Asset No.": "6200001215",
     "Asset description": "ALCOM ALUMINIUM LADDER",
-    "Location": "",
+    "Location": "D (1) BLK BOILER",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.12.2002"
@@ -3432,7 +3432,7 @@
     "id": "6200001212",
     "Asset No.": "6200001212",
     "Asset description": "3 TIER STAINLESS STEEL TROLEY - 78 x",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.10.2002"
@@ -3441,7 +3441,7 @@
     "id": "6200001213",
     "Asset No.": "6200001213",
     "Asset description": "IKAMAG MAXI MR1 DIGITAL",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.10.2002"
@@ -3450,7 +3450,7 @@
     "id": "6200001209",
     "Asset No.": "6200001209",
     "Asset description": "PERISTALTIC PUMP - 505DZ/RL WATSON M",
-    "Location": "",
+    "Location": "D(1) DIJANGKA LUPUS OGOS 2025",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "01.06.2002"
@@ -3459,7 +3459,7 @@
     "id": "6200001200",
     "Asset No.": "6200001200",
     "Asset description": "WALL CABINET",
-    "Location": "",
+    "Location": "ADM(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "18.04.2001"
@@ -3468,7 +3468,7 @@
     "id": "6200001197",
     "Asset No.": "6200001197",
     "Asset description": "STAINLESS STEEL POT",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.06.2000"
@@ -3477,7 +3477,7 @@
     "id": "6200001198",
     "Asset No.": "6200001198",
     "Asset description": "TROLLY STAINLESS STEEL(2 TIERS)-820",
-    "Location": "",
+    "Location": "~C",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.06.2000"
@@ -3486,7 +3486,7 @@
     "id": "6200001267",
     "Asset No.": "6200001267",
     "Asset description": "TROLLY STAINLESS STEEL(2 TIERS)-640",
-    "Location": "",
+    "Location": "B(1),I(4)",
     "CostCenter": "821146001",
     "Quantity": "5",
     "Cap.date": "30.06.2000"
@@ -3495,7 +3495,7 @@
     "id": "6200001195",
     "Asset No.": "6200001195",
     "Asset description": "BENCHTAP DISPENSER 505 DZ/RL",
-    "Location": "",
+    "Location": "D(1) DIJANGKA LUPUS OGOS 2025",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.04.2000"
@@ -3504,7 +3504,7 @@
     "id": "6200001196",
     "Asset No.": "6200001196",
     "Asset description": "CIMAREC MAGNETIC STIRRER - 18 x 18CM",
-    "Location": "",
+    "Location": "D(2)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.04.2000"
@@ -3513,7 +3513,7 @@
     "id": "1270000101",
     "Asset No.": "1270000101",
     "Asset description": "KAW.PRE-NURSERY/TEMPAT HARDENING T.K",
-    "Location": "",
+    "Location": "PPPTR",
     "CostCenter": "821146001",
     "Quantity": "2",
     "Cap.date": "31.12.1999"
@@ -3522,7 +3522,7 @@
     "id": "6200001274",
     "Asset No.": "6200001274",
     "Asset description": "3 TIER MOBILE TROLLEY (640MM x 400MM",
-    "Location": "",
+    "Location": "A(2),B1(1)F (1),G(2),I(2)",
     "CostCenter": "821146001",
     "Quantity": "8",
     "Cap.date": "28.02.1999"
@@ -3531,7 +3531,7 @@
     "id": "4100001354",
     "Asset No.": "4100001354",
     "Asset description": "WOODEN CABINET 48 x 24 x 84",
-    "Location": "",
+    "Location": "STOR CONSUMABLE",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.09.1997"
@@ -3540,7 +3540,7 @@
     "id": "6200001190",
     "Asset No.": "6200001190",
     "Asset description": "PRECISION ANALYTICAL BALANCE-PRECISA",
-    "Location": "",
+    "Location": "D(1) DIJANGKA LUPUS OGOS 2025",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.02.1997"
@@ -3549,7 +3549,7 @@
     "id": "4200001528",
     "Asset No.": "4200001528",
     "Asset description": "KABINET KAYU 2 CERMIN SLIDING & PINTU",
-    "Location": "",
+    "Location": "ADM(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1996"
@@ -3558,7 +3558,7 @@
     "id": "6200001189",
     "Asset No.": "6200001189",
     "Asset description": "STAINLESS STEEL DRUM 45CM X 55CM X 3",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.02.1996"
@@ -3567,7 +3567,7 @@
     "id": "4200001016",
     "Asset No.": "4200001016",
     "Asset description": "COMPUTER TABLE 60D X 90W",
-    "Location": "",
+    "Location": "DALAM KEDAI KSR",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.06.1995"
@@ -3576,7 +3576,7 @@
     "id": "6200001186",
     "Asset No.": "6200001186",
     "Asset description": "MEJA FORMICA,2 TINGKAT.",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.06.1995"
@@ -3585,7 +3585,7 @@
     "id": "6200001187",
     "Asset No.": "6200001187",
     "Asset description": "MEJA FORMICA,3 TINGKAT.",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.06.1995"
@@ -3594,7 +3594,7 @@
     "id": "6200001188",
     "Asset No.": "6200001188",
     "Asset description": "MEMMERT OVEN WITH BLOWER",
-    "Location": "",
+    "Location": "A(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "30.06.1995"
@@ -3612,7 +3612,7 @@
     "id": "6200001284",
     "Asset No.": "6200001284",
     "Asset description": "TROLLY 365MM x 640MM x 825MM",
-    "Location": "",
+    "Location": "A1(1),B(1),F (2)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "28.02.1995"
@@ -3621,7 +3621,7 @@
     "id": "6200001181",
     "Asset No.": "6200001181",
     "Asset description": "VORTEX MIXER",
-    "Location": "",
+    "Location": "D(1) lupus",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1989"
@@ -3630,7 +3630,7 @@
     "id": "6200001169",
     "Asset No.": "6200001169",
     "Asset description": "DRYING CABINET MODEL F2",
-    "Location": "",
+    "Location": "E(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1986"
@@ -3639,7 +3639,7 @@
     "id": "6200001171",
     "Asset No.": "6200001171",
     "Asset description": "STAINLESS STEEL POT",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1986"
@@ -3648,7 +3648,7 @@
     "id": "6200001283",
     "Asset No.": "6200001283",
     "Asset description": "STAINLESS STEEL TROLLEY",
-    "Location": "",
+    "Location": "C(3),F (1)G(1) H (12)",
     "CostCenter": "821146001",
     "Quantity": "18",
     "Cap.date": "31.12.1986"
@@ -3657,7 +3657,7 @@
     "id": "4200001011",
     "Asset No.": "4200001011",
     "Asset description": "MEJA KERANI 6 x 10 x 2.6 x 2",
-    "Location": "",
+    "Location": "DEPAN KEDAI KSR",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1985"
@@ -3666,7 +3666,7 @@
     "id": "4200001012",
     "Asset No.": "4200001012",
     "Asset description": "WHITE BOARD WITH ROLLERS",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1985"
@@ -3675,7 +3675,7 @@
     "id": "6200001237",
     "Asset No.": "6200001237",
     "Asset description": "FIRE BLANKET 6 x 6",
-    "Location": "",
+    "Location": "C (1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1985"
@@ -3684,7 +3684,7 @@
     "id": "6200001164",
     "Asset No.": "6200001164",
     "Asset description": "L/F MILLI Q3",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1984"
@@ -3693,7 +3693,7 @@
     "id": "6200001276",
     "Asset No.": "6200001276",
     "Asset description": "STAINLESS STEEL TROLLEY",
-    "Location": "",
+    "Location": "F(1),I(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1984"
@@ -3702,7 +3702,7 @@
     "id": "6200001157",
     "Asset No.": "6200001157",
     "Asset description": "MILLI RO 60 WATER SYSTEM",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1983"
@@ -3711,7 +3711,7 @@
     "id": "6200001161",
     "Asset No.": "6200001161",
     "Asset description": "STAINLESS STEEL STOCK POT",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146001",
     "Quantity": "1",
     "Cap.date": "31.12.1983"
@@ -3720,7 +3720,7 @@
     "id": "6200002555",
     "Asset No.": "6200002555",
     "Asset description": "DISPLAY CHILLER C/W HEATER TEMPERED",
-    "Location": "",
+    "Location": "BLOK D",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "13.06.2025"
@@ -3729,7 +3729,7 @@
     "id": "6200002557",
     "Asset No.": "6200002557",
     "Asset description": "ANDROID MOBILE PHONE (OPPO A3X)",
-    "Location": "",
+    "Location": "BIOINFOMATIC",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "09.06.2025"
@@ -3738,7 +3738,7 @@
     "id": "6200002558",
     "Asset No.": "6200002558",
     "Asset description": "ANDROID TABLET (7) & WIRELESS QR SCA",
-    "Location": "",
+    "Location": "BIOINFOMATIC",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "09.06.2025"
@@ -3747,7 +3747,7 @@
     "id": "6200002559",
     "Asset No.": "6200002559",
     "Asset description": "THERMAL PRINTER & LASER PRINTER",
-    "Location": "",
+    "Location": "BIOINFOMATIC",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "09.06.2025"
@@ -3756,7 +3756,7 @@
     "id": "6200002329",
     "Asset No.": "6200002329",
     "Asset description": "BOSCH ANGLE GRINDER GWS060 @ Enstek",
-    "Location": "",
+    "Location": "(M)1",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "28.02.2022"
@@ -3765,7 +3765,7 @@
     "id": "6200002317",
     "Asset No.": "6200002317",
     "Asset description": "DUAL INVERTER HEAT PUMP DRYER 9KG @",
-    "Location": "",
+    "Location": "E(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "01.12.2021"
@@ -3774,7 +3774,7 @@
     "id": "6200002330",
     "Asset No.": "6200002330",
     "Asset description": "BOSCH GST 700 PROFESSIONAL JIGSAW 50",
-    "Location": "",
+    "Location": "M (1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "28.12.2021"
@@ -3783,7 +3783,7 @@
     "id": "6200002303",
     "Asset No.": "6200002303",
     "Asset description": "PH Meter Thermo Scientific Orion 3 S",
-    "Location": "",
+    "Location": "Blok D",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "21.07.2021"
@@ -3792,7 +3792,7 @@
     "id": "9900000989",
     "Asset No.": "9900000989",
     "Asset description": "STAND FAN 16\" PANASONIC F-MT 405BN (",
-    "Location": "",
+    "Location": "M(1) NURSERI (1)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "28.06.2019"
@@ -3801,7 +3801,7 @@
     "id": "6200002239",
     "Asset No.": "6200002239",
     "Asset description": "Precision Balance Touch Screen METTL",
-    "Location": "",
+    "Location": "I(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "18.10.2018"
@@ -3810,7 +3810,7 @@
     "id": "6200001509",
     "Asset No.": "6200001509",
     "Asset description": "MEJA OVEN",
-    "Location": "",
+    "Location": "A(1),G(1)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "01.01.2010"
@@ -3819,7 +3819,7 @@
     "id": "6200001437",
     "Asset No.": "6200001437",
     "Asset description": "STAINLESS STEEL TABLE C/W DRAWER -76",
-    "Location": "",
+    "Location": "A(1),G(1)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "28.11.2008"
@@ -3828,7 +3828,7 @@
     "id": "6200001419",
     "Asset No.": "6200001419",
     "Asset description": "UNIVERSAL OVEN",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "30.08.2008"
@@ -3837,7 +3837,7 @@
     "id": "6200001379",
     "Asset No.": "6200001379",
     "Asset description": "TROLI 2 TINGKAT BERPAGAR",
-    "Location": "",
+    "Location": "G(2)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "30.07.2008"
@@ -3846,7 +3846,7 @@
     "id": "6200001387",
     "Asset No.": "6200001387",
     "Asset description": "TROLI KECIL 2 TINGKAT-15''",
-    "Location": "",
+    "Location": "F (1) G(2) H(7)",
     "CostCenter": "821146002",
     "Quantity": "9",
     "Cap.date": "30.07.2008"
@@ -3855,7 +3855,7 @@
     "id": "6200001404",
     "Asset No.": "6200001404",
     "Asset description": "PERISTALTIC PUMP N-M",
-    "Location": "",
+    "Location": "H(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "19.06.2008"
@@ -3864,7 +3864,7 @@
     "id": "6200001117",
     "Asset No.": "6200001117",
     "Asset description": "TROLI MS BERPAGAR",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "17.06.2007"
@@ -3873,7 +3873,7 @@
     "id": "6200001118",
     "Asset No.": "6200001118",
     "Asset description": "TROLI G TYPE 1 - 31 x 18 x 24m",
-    "Location": "",
+    "Location": "A(7),C (7), F (4)C1 (1) J (1) *",
     "CostCenter": "821146002",
     "Quantity": "20",
     "Cap.date": "17.06.2007"
@@ -3882,7 +3882,7 @@
     "id": "6200001121",
     "Asset No.": "6200001121",
     "Asset description": "TROLI  14'",
-    "Location": "",
+    "Location": "H (4)",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "17.06.2007"
@@ -3891,7 +3891,7 @@
     "id": "6200001122",
     "Asset No.": "6200001122",
     "Asset description": "TROLI TYPE 12 (3 TINGKAT)",
-    "Location": "",
+    "Location": "B (7)G(4) H (3)",
     "CostCenter": "821146002",
     "Quantity": "10",
     "Cap.date": "17.06.2007"
@@ -3900,7 +3900,7 @@
     "id": "9900000257",
     "Asset No.": "9900000257",
     "Asset description": "EXPOXY COATED GALVANIZED IRON STAND",
-    "Location": "",
+    "Location": "MAINTENANCE(DEPAN STOR PRODUCTION)",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "31.05.2007"
@@ -3909,7 +3909,7 @@
     "id": "9900000243",
     "Asset No.": "9900000243",
     "Asset description": "FILING CABINET BERTINGKAT",
-    "Location": "",
+    "Location": "H(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "30.05.2007"
@@ -3918,7 +3918,7 @@
     "id": "9900000244",
     "Asset No.": "9900000244",
     "Asset description": "CABINET BERTINGKAT",
-    "Location": "",
+    "Location": "H(2),I(1)",
     "CostCenter": "821146002",
     "Quantity": "3",
     "Cap.date": "30.05.2007"
@@ -3927,7 +3927,7 @@
     "id": "6200001089",
     "Asset No.": "6200001089",
     "Asset description": "MEMMERT UNIVERSAL OVEN",
-    "Location": "",
+    "Location": "H(1) C (1)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "15.05.2007"
@@ -3936,7 +3936,7 @@
     "id": "9900000208",
     "Asset No.": "9900000208",
     "Asset description": "RAK KASUT",
-    "Location": "",
+    "Location": "~ I",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.01.2007"
@@ -3945,7 +3945,7 @@
     "id": "6200001097",
     "Asset No.": "6200001097",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "G(8) H(3)",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "31.12.2006"
@@ -3954,7 +3954,7 @@
     "id": "6200001098",
     "Asset No.": "6200001098",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "G(1),H(3)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "31.12.2006"
@@ -3963,7 +3963,7 @@
     "id": "6200001099",
     "Asset No.": "6200001099",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "G(1) H (1)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "31.12.2006"
@@ -3972,7 +3972,7 @@
     "id": "6200001100",
     "Asset No.": "6200001100",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "G(2),H(2) I (1)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "31.12.2006"
@@ -3981,7 +3981,7 @@
     "id": "6200001101",
     "Asset No.": "6200001101",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "H(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -3990,7 +3990,7 @@
     "id": "6200001102",
     "Asset No.": "6200001102",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "H(3)",
     "CostCenter": "821146002",
     "Quantity": "3",
     "Cap.date": "31.12.2006"
@@ -3999,7 +3999,7 @@
     "id": "6200001103",
     "Asset No.": "6200001103",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "H(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -4008,7 +4008,7 @@
     "id": "6200001104",
     "Asset No.": "6200001104",
     "Asset description": "STAINLESS STEEL SHELF TYPE 304-0.7mX",
-    "Location": "",
+    "Location": "I(3)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.12.2006"
@@ -4017,7 +4017,7 @@
     "id": "6200000850",
     "Asset No.": "6200000850",
     "Asset description": "TROLLEY KECIL",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "03.11.2006"
@@ -4026,7 +4026,7 @@
     "id": "6200001012",
     "Asset No.": "6200001012",
     "Asset description": "S/S SHELF-1.3 MS TYPE 32 (0.9m(W) X",
-    "Location": "",
+    "Location": "G(2)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -4035,7 +4035,7 @@
     "id": "6200001013",
     "Asset No.": "6200001013",
     "Asset description": "S/S SHELF-1.4 MS TYPE 4 (0.9m(W) X 3",
-    "Location": "",
+    "Location": "H(1),I(4) *",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "19.10.2006"
@@ -4044,7 +4044,7 @@
     "id": "6200001014",
     "Asset No.": "6200001014",
     "Asset description": "S/S SHELF-1.5 MS TYPE 5 (0.9m(W) X 3",
-    "Location": "",
+    "Location": "I(2)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -4053,7 +4053,7 @@
     "id": "6200001016",
     "Asset No.": "6200001016",
     "Asset description": "S/S SHELF-1.7 MS TYPE 7 (0.9m(W) X 3",
-    "Location": "",
+    "Location": "D (1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -4062,7 +4062,7 @@
     "id": "6200001019",
     "Asset No.": "6200001019",
     "Asset description": "S/S SHELF-1.10 MS TYPE 10 (0.9m X 7.",
-    "Location": "",
+    "Location": "G(1) I (1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "19.10.2006"
@@ -4071,7 +4071,7 @@
     "id": "6200001021",
     "Asset No.": "6200001021",
     "Asset description": "S/S SHELF-1.12 MS TYPE 12 (1.1m X 3.",
-    "Location": "",
+    "Location": "D(1),G(1) *",
     "CostCenter": "821146002",
     "Quantity": "3",
     "Cap.date": "19.10.2006"
@@ -4080,7 +4080,7 @@
     "id": "6200001022",
     "Asset No.": "6200001022",
     "Asset description": "S/S SHELF-1.13 MS TYPE 13 (1.1m X 3.",
-    "Location": "",
+    "Location": "E(1),H(2)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "19.10.2006"
@@ -4089,7 +4089,7 @@
     "id": "6200000958",
     "Asset No.": "6200000958",
     "Asset description": "STAINLESS TROLLEY",
-    "Location": "",
+    "Location": "E(2) *",
     "CostCenter": "821146002",
     "Quantity": "3",
     "Cap.date": "02.08.2006"
@@ -4098,7 +4098,7 @@
     "id": "6200000973",
     "Asset No.": "6200000973",
     "Asset description": "WORKBENCHES & SLIDING DOOR",
-    "Location": "",
+    "Location": "D(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "01.08.2006"
@@ -4107,7 +4107,7 @@
     "id": "9900000185",
     "Asset No.": "9900000185",
     "Asset description": "MILD STEEL 6 COMPARTMENT CABINET C/W",
-    "Location": "",
+    "Location": "A(4),B(4),C(3)D(1)E(1)F(3)G(4)H(5)I(4)J(1)B1 (2)M (2)",
     "CostCenter": "821146002",
     "Quantity": "34",
     "Cap.date": "26.07.2006"
@@ -4116,7 +4116,7 @@
     "id": "6200000881",
     "Asset No.": "6200000881",
     "Asset description": "TROLI KECIL TYPE 4 - 30\" x 18\" x 42\"",
-    "Location": "",
+    "Location": "C (1)troli umbut",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "11.05.2006"
@@ -4125,7 +4125,7 @@
     "id": "6200000899",
     "Asset No.": "6200000899",
     "Asset description": "TROLI BESAR TYPE 6 - 44\" x 28\" x 31\"",
-    "Location": "",
+    "Location": "M(1) TEPI KANTIN",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "11.05.2006"
@@ -4134,7 +4134,7 @@
     "id": "6200000890",
     "Asset No.": "6200000890",
     "Asset description": "ALTERNATIF SHELF TYPE 2",
-    "Location": "",
+    "Location": "~I",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "03.05.2006"
@@ -4143,7 +4143,7 @@
     "id": "6200000893",
     "Asset No.": "6200000893",
     "Asset description": "ALTERNATIF SHELF TYPE 1",
-    "Location": "",
+    "Location": "D(1),H(3),I(4)*",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "03.05.2006"
@@ -4152,7 +4152,7 @@
     "id": "6200000892",
     "Asset No.": "6200000892",
     "Asset description": "SHELF TYPE 10",
-    "Location": "",
+    "Location": "~F-CR2 (2),CR5(2)",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "01.04.2006"
@@ -4161,7 +4161,7 @@
     "id": "6200000894",
     "Asset No.": "6200000894",
     "Asset description": "SHELF TYPE 9",
-    "Location": "",
+    "Location": "~F(2),I",
     "CostCenter": "821146002",
     "Quantity": "7",
     "Cap.date": "01.04.2006"
@@ -4170,7 +4170,7 @@
     "id": "9900000282",
     "Asset No.": "9900000282",
     "Asset description": "RAK KASUT - MODEL : 3.1 58' x 10' x",
-    "Location": "",
+    "Location": "~",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "24.01.2006"
@@ -4179,7 +4179,7 @@
     "id": "9900000283",
     "Asset No.": "9900000283",
     "Asset description": "RAK KASUT - MODEL : 3.2 52' x 10' x",
-    "Location": "",
+    "Location": "I(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "24.01.2006"
@@ -4188,7 +4188,7 @@
     "id": "9900000281",
     "Asset No.": "9900000281",
     "Asset description": "KABINET LOCKER - MODEL 31B",
-    "Location": "",
+    "Location": "I (1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "06.01.2006"
@@ -4197,7 +4197,7 @@
     "id": "6200001256",
     "Asset No.": "6200001256",
     "Asset description": "SHELF TYPE 9",
-    "Location": "",
+    "Location": "~F (4)",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "10.12.2005"
@@ -4206,7 +4206,7 @@
     "id": "6200001257",
     "Asset No.": "6200001257",
     "Asset description": "SHELF TYPE 10",
-    "Location": "",
+    "Location": "F(4),",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "10.12.2005"
@@ -4215,7 +4215,7 @@
     "id": "6200001246",
     "Asset No.": "6200001246",
     "Asset description": "EXTENSION PUMP HEAD",
-    "Location": "",
+    "Location": "D(1)*",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "01.05.2005"
@@ -4224,7 +4224,7 @@
     "id": "6200001285",
     "Asset No.": "6200001285",
     "Asset description": "RACKING SYSTEM 5'0'L X 3'0' W 7'0'H",
-    "Location": "",
+    "Location": "A(1),D(2),H(2),I(7)",
     "CostCenter": "821146002",
     "Quantity": "32",
     "Cap.date": "01.05.2005"
@@ -4233,7 +4233,7 @@
     "id": "6200001245",
     "Asset No.": "6200001245",
     "Asset description": "TROLI",
-    "Location": "",
+    "Location": "D(2) *",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "02.02.2005"
@@ -4242,7 +4242,7 @@
     "id": "4200001017",
     "Asset No.": "4200001017",
     "Asset description": "KABINET DENAGN 4 LACI 2 PINTU 6' X 2",
-    "Location": "",
+    "Location": "~G(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.12.2004"
@@ -4251,7 +4251,7 @@
     "id": "4200001018",
     "Asset No.": "4200001018",
     "Asset description": "KABINET DENGAN 4 LACI DAN 2 PINTU 4'",
-    "Location": "",
+    "Location": "~",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "31.12.2004"
@@ -4260,7 +4260,7 @@
     "id": "6200001251",
     "Asset No.": "6200001251",
     "Asset description": "2 TIER STAINLESS STEEL TROLLEY - 73",
-    "Location": "",
+    "Location": "E(3),I(3) *",
     "CostCenter": "821146002",
     "Quantity": "3",
     "Cap.date": "01.10.2002"
@@ -4269,7 +4269,7 @@
     "id": "6200001211",
     "Asset No.": "6200001211",
     "Asset description": "VACUUM CLEANER - KARCHER K5500 AQUA",
-    "Location": "",
+    "Location": "I",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "01.09.2002"
@@ -4278,7 +4278,7 @@
     "id": "6200001207",
     "Asset No.": "6200001207",
     "Asset description": "KARCHER K5500 AQUA SELECT VACUUM CLE",
-    "Location": "",
+    "Location": "H(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "01.06.2002"
@@ -4287,7 +4287,7 @@
     "id": "6200001201",
     "Asset No.": "6200001201",
     "Asset description": "2 TIER STAINLESS STEEL TROLLEY (DIAG",
-    "Location": "",
+    "Location": "~G",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.07.2001"
@@ -4296,7 +4296,7 @@
     "id": "6200001202",
     "Asset No.": "6200001202",
     "Asset description": "2 TIER STAINLESS STEEL TROLLEY (DIAG",
-    "Location": "",
+    "Location": "~G",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.07.2001"
@@ -4305,7 +4305,7 @@
     "id": "6200001203",
     "Asset No.": "6200001203",
     "Asset description": "3 TIER STAINLESS STEEL TROLLEY (DIAG",
-    "Location": "",
+    "Location": "~F",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.07.2001"
@@ -4314,7 +4314,7 @@
     "id": "6200001243",
     "Asset No.": "6200001243",
     "Asset description": "TOUCH O-MATIC (BURSEN BURNER) - THAN",
-    "Location": "",
+    "Location": "H (2)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "01.04.2001"
@@ -4323,7 +4323,7 @@
     "id": "6200001241",
     "Asset No.": "6200001241",
     "Asset description": "EPOXY COATED METAL FLOOR STAND - 53",
-    "Location": "",
+    "Location": "H(2)",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "08.03.2001"
@@ -4332,7 +4332,7 @@
     "id": "6200001242",
     "Asset No.": "6200001242",
     "Asset description": "LAMINAR AIR FLOW CABINET 4'",
-    "Location": "",
+    "Location": "~",
     "CostCenter": "821146002",
     "Quantity": "2",
     "Cap.date": "08.03.2001"
@@ -4341,7 +4341,7 @@
     "id": "6200001250",
     "Asset No.": "6200001250",
     "Asset description": "TROLLY STAINLESS STEEL(2 TIERS)-640",
-    "Location": "",
+    "Location": "~",
     "CostCenter": "821146002",
     "Quantity": "3",
     "Cap.date": "30.06.2000"
@@ -4350,7 +4350,7 @@
     "id": "6200001266",
     "Asset No.": "6200001266",
     "Asset description": "TOUCH-O MATIC (BUNSEN BURNER) - THAN",
-    "Location": "",
+    "Location": "H (1)",
     "CostCenter": "821146002",
     "Quantity": "5",
     "Cap.date": "30.04.2000"
@@ -4359,7 +4359,7 @@
     "id": "6200001265",
     "Asset No.": "6200001265",
     "Asset description": "LAMINAR AIR FLOW CABINET 4' - ERLA",
-    "Location": "",
+    "Location": "F(1)H(1),I(5)",
     "CostCenter": "821146002",
     "Quantity": "5",
     "Cap.date": "31.03.2000"
@@ -4368,7 +4368,7 @@
     "id": "6200001263",
     "Asset No.": "6200001263",
     "Asset description": "OVEN BAKED EPOXY COATED METAL FLOOR",
-    "Location": "",
+    "Location": "~",
     "CostCenter": "821146002",
     "Quantity": "5",
     "Cap.date": "31.03.1999"
@@ -4377,7 +4377,7 @@
     "id": "6200001255",
     "Asset No.": "6200001255",
     "Asset description": "LAMINAR AIR FLOW CABINET - CFM 4 ERLA",
-    "Location": "",
+    "Location": "F(1),G (3)",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "28.02.1999"
@@ -4386,7 +4386,7 @@
     "id": "6200001260",
     "Asset No.": "6200001260",
     "Asset description": "BUNSEN-BURNER (TOUCH-O-MATIC) - HANA",
-    "Location": "",
+    "Location": "~G",
     "CostCenter": "821146002",
     "Quantity": "5",
     "Cap.date": "28.02.1999"
@@ -4395,7 +4395,7 @@
     "id": "6200001261",
     "Asset No.": "6200001261",
     "Asset description": "MOBILE TROLLEY (640MM X 490MM X 820M",
-    "Location": "",
+    "Location": "E(10) *",
     "CostCenter": "821146002",
     "Quantity": "5",
     "Cap.date": "28.02.1999"
@@ -4404,7 +4404,7 @@
     "id": "6200001262",
     "Asset No.": "6200001262",
     "Asset description": "MOBILE TROLLEY (725MM X 550MM X 820M",
-    "Location": "",
+    "Location": "~G",
     "CostCenter": "821146002",
     "Quantity": "5",
     "Cap.date": "28.02.1999"
@@ -4413,7 +4413,7 @@
     "id": "6200001278",
     "Asset No.": "6200001278",
     "Asset description": "ALUMINIUM FOIL BOX WITH COVER",
-    "Location": "",
+    "Location": "A(1),B(1),C(2),F(1),G(2),H(2),I(1)",
     "CostCenter": "821146002",
     "Quantity": "10",
     "Cap.date": "28.02.1999"
@@ -4422,7 +4422,7 @@
     "id": "6200001258",
     "Asset No.": "6200001258",
     "Asset description": "FLOW CABINET HLF",
-    "Location": "",
+    "Location": "G(1),H(1),I(2)",
     "CostCenter": "821146002",
     "Quantity": "5",
     "Cap.date": "31.07.1995"
@@ -4431,7 +4431,7 @@
     "id": "6200001254",
     "Asset No.": "6200001254",
     "Asset description": "LAMINAR FLOW CABINET & STAND",
-    "Location": "",
+    "Location": "H(1)I(3)",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "31.05.1995"
@@ -4440,7 +4440,7 @@
     "id": "6200001280",
     "Asset No.": "6200001280",
     "Asset description": "BURNERS TOURCH-OMATIC SFSI/USA",
-    "Location": "",
+    "Location": "~G",
     "CostCenter": "821146002",
     "Quantity": "12",
     "Cap.date": "30.09.1994"
@@ -4449,7 +4449,7 @@
     "id": "6200001279",
     "Asset No.": "6200001279",
     "Asset description": "STAINLESS STEEL TROLLEY",
-    "Location": "",
+    "Location": "A(1) F (3)G (1) H(7)",
     "CostCenter": "821146002",
     "Quantity": "12",
     "Cap.date": "31.12.1985"
@@ -4458,7 +4458,7 @@
     "id": "6200001281",
     "Asset No.": "6200001281",
     "Asset description": "BUNSEN BURNER",
-    "Location": "",
+    "Location": "~ G(3),H(11)",
     "CostCenter": "821146002",
     "Quantity": "14",
     "Cap.date": "31.12.1984"
@@ -4467,7 +4467,7 @@
     "id": "6200001282",
     "Asset No.": "6200001282",
     "Asset description": "LAMINAR FLOW CABINET",
-    "Location": "",
+    "Location": "A(1) B(2)G(1),H(9)",
     "CostCenter": "821146002",
     "Quantity": "13",
     "Cap.date": "31.12.1984"
@@ -4476,7 +4476,7 @@
     "id": "6200001160",
     "Asset No.": "6200001160",
     "Asset description": "PESTEUR MEMMERT OVEN UL40",
-    "Location": "",
+    "Location": "I(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.12.1983"
@@ -4485,7 +4485,7 @@
     "id": "6200001235",
     "Asset No.": "6200001235",
     "Asset description": "ESCO LAWINE BENCH",
-    "Location": "",
+    "Location": "G(1)",
     "CostCenter": "821146002",
     "Quantity": "1",
     "Cap.date": "31.12.1983"
@@ -4494,7 +4494,7 @@
     "id": "6200001252",
     "Asset No.": "6200001252",
     "Asset description": "ESCO LABLINE BENCH CABINET",
-    "Location": "",
+    "Location": "G(2) I (1)H(1)",
     "CostCenter": "821146002",
     "Quantity": "4",
     "Cap.date": "31.12.1983"
@@ -4503,7 +4503,7 @@
     "id": "1200000053",
     "Asset No.": "1200000053",
     "Asset description": "MINI PLANT HOUSE FOR BANANA",
-    "Location": "",
+    "Location": "Nursery",
     "CostCenter": "821146004",
     "Quantity": "1",
     "Cap.date": "06.09.2021"
@@ -4512,7 +4512,7 @@
     "id": "6200001485",
     "Asset No.": "6200001485",
     "Asset description": "HORIZONTAL LAMINAR FLOW CABINET",
-    "Location": "",
+    "Location": "A(1)B(1)C (1) F(1)",
     "CostCenter": "821146004",
     "Quantity": "6",
     "Cap.date": "01.10.2009"
@@ -4521,7 +4521,7 @@
     "id": "6200001486",
     "Asset No.": "6200001486",
     "Asset description": "MOBILE STAND WITH CASTOR FOR 4ft MOD",
-    "Location": "",
+    "Location": "~A",
     "CostCenter": "821146004",
     "Quantity": "6",
     "Cap.date": "01.10.2009"
@@ -4530,7 +4530,7 @@
     "id": "6200001487",
     "Asset No.": "6200001487",
     "Asset description": "TOUCH -O-MATIC",
-    "Location": "",
+    "Location": "~A",
     "CostCenter": "821146004",
     "Quantity": "6",
     "Cap.date": "01.10.2009"
@@ -4539,7 +4539,7 @@
     "id": "9900000207",
     "Asset No.": "9900000207",
     "Asset description": "KABINET KAYU",
-    "Location": "",
+    "Location": "A(1)",
     "CostCenter": "821146004",
     "Quantity": "1",
     "Cap.date": "10.11.2006"
@@ -4548,7 +4548,7 @@
     "id": "9900000196",
     "Asset No.": "9900000196",
     "Asset description": "KERUSI CURSION TINGGI JENIS BAR STOO",
-    "Location": "",
+    "Location": "B (2)",
     "CostCenter": "821146004",
     "Quantity": "2",
     "Cap.date": "05.09.2006"
@@ -4557,7 +4557,7 @@
     "id": "6200000987",
     "Asset No.": "6200000987",
     "Asset description": "OVEN",
-    "Location": "",
+    "Location": "A(1)",
     "CostCenter": "821146004",
     "Quantity": "1",
     "Cap.date": "24.08.2006"
@@ -4566,7 +4566,7 @@
     "id": "6200000952",
     "Asset No.": "6200000952",
     "Asset description": "LIGHT CULTURE ROOM SHELVES - 15' x 2'",
-    "Location": "",
+    "Location": "A(3)",
     "CostCenter": "821146004",
     "Quantity": "3",
     "Cap.date": "10.08.2006"
@@ -4575,7 +4575,7 @@
     "id": "6200000953",
     "Asset No.": "6200000953",
     "Asset description": "LIGHT CULTURE ROOM SHELVES - 13' x 2'",
-    "Location": "",
+    "Location": "A(5)",
     "CostCenter": "821146004",
     "Quantity": "5",
     "Cap.date": "10.08.2006"
@@ -4584,7 +4584,7 @@
     "id": "6200000954",
     "Asset No.": "6200000954",
     "Asset description": "LIGHT CULTURE ROOM SHELVES - 11' x 2'",
-    "Location": "",
+    "Location": "A(2)",
     "CostCenter": "821146004",
     "Quantity": "2",
     "Cap.date": "10.08.2006"
@@ -4593,7 +4593,7 @@
     "id": "6200001371",
     "Asset No.": "6200001371",
     "Asset description": "RACKING SYSTEM 3'0'L X 3'0' W 7'0'H",
-    "Location": "",
+    "Location": "A(2) *",
     "CostCenter": "821146004",
     "Quantity": "1",
     "Cap.date": "01.05.2005"
@@ -5272,5 +5272,5 @@
     "CostCenter": "821901001",
     "Quantity": "1",
     "Cap.date": "01.06.2012"
-  }
+  },
 ]
