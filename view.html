@@ -356,14 +356,15 @@ const asset = assets.find(function(x){
     }
 
 
-    catch(error){
+  catch(error){
 
-        content.innerHTML =
-            '<div class="error">' +
-            'Unable to load asset information.' +
-            '</div>';
+    content.innerHTML =
+        '<div class="error">' +
+        'Unable to load asset information.<br><br>' +
+        escapeHTML(error.message) +
+        '</div>';
 
-    }
+}
 
 }
 
