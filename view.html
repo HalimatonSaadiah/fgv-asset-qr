@@ -217,7 +217,7 @@ async function loadAsset(){
 
     try{
 
-        const response = await fetch('assets.json');
+        const response = await fetch('assets.json?v=' + Date.now());
 
 
         if(!response.ok){
